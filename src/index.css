@@ -58,6 +58,15 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+nav {
+  height: 77px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 3px;
+  padding: 0.5rem 1rem;
+}
 .main{
   display: grid;
   grid-template-columns: repeat(4, 300px);
@@ -77,6 +86,16 @@ button:focus-visible {
   -webkit-box-shadow: 3px 3px 10px 3px #dddddd;
   -moz-box-shadow: 3px 3px 10px 3px #dddddd;
   box-shadow: 3px 3px 10px 3px #dddddd;
+}
+#brand-logo{
+  display: flex;
+  background-color: #ffffff;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 50px;
 }
 .data{
   background-color:aliceblue;

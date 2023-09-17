@@ -10,7 +10,7 @@ function Image() {
                <div key={item.id} className='box'>
                 <h4>{item.id}</h4>
                 <h3>{item.brand}</h3>
-                <img src={item.logo_url} alt={item.brand} />
+                <div id='brand-logo'><img src={item.logo_url} alt={item.brand} /></div>
                 <h4>{item.founded}</h4>
                </div>
             ))}
