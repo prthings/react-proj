@@ -3,73 +3,73 @@
     "brand": "Google",
     "id": 1,
     "founded": "1965",
-    "logo_url": "https://logo.clearbit.com/google.com?size=200"
+    "logo_url": "https://logo.clearbit.com/google.com?size=100"
   },
   {
     "brand": "Microsoft",
     "id": 2,
     "founded": "1997",
-    "logo_url": "https://logo.clearbit.com/microsoft.com?size=200"
+    "logo_url": "https://logo.clearbit.com/microsoft.com?size=100"
   },
   {
     "brand": "TCS",
     "id": 3,
     "founded": "1965",
-    "logo_url": "https://logo.clearbit.com/tcs.com?size=200"
+    "logo_url": "https://logo.clearbit.com/tcs.com?size=100"
   },
   {
     "brand": "Cognizant",
     "id": 4,
     "founded": "1994",
-    "logo_url": "https://logo.clearbit.com/cognizant.com?size=200"
+    "logo_url": "https://logo.clearbit.com/cognizant.com?size=100"
   },
   {
     "brand": "IBM",
     "id": 5,
     "founded": "1994",
-    "logo_url": "https://logo.clearbit.com/ibm.com?size=200"
+    "logo_url": "https://logo.clearbit.com/ibm.com?size=100"
   },
   {
     "brand": "Accenture",
     "id": 6,
     "founded": "1994",
-    "logo_url": "https://logo.clearbit.com/accenture.com?size=200"
+    "logo_url": "https://logo.clearbit.com/accenture.com?size=100"
   },
   {
     "brand": "Wipro",
     "id": 7,
     "founded": "1994",
-    "logo_url": "https://logo.clearbit.com/wipro.com?size=200"
+    "logo_url": "https://logo.clearbit.com/wipro.com?size=100"
   },
   {
     "brand": "Infosys",
     "id": 8,
     "founded": "1994",
-    "logo_url": "https://logo.clearbit.com/infosys.com?size=200"
+    "logo_url": "https://logo.clearbit.com/infosys.com?size=100"
   },
   {
     "brand": "HCL Tech",
     "id": 9,
     "founded": "1994",
-    "logo_url": "https://logo.clearbit.com/hcltech.com?size=200"
+    "logo_url": "https://logo.clearbit.com/hcltech.com?size=100"
   },
   {
     "brand": "Tech Mahindra",
     "id": 10,
     "founded": "1994",
-    "logo_url": "https://logo.clearbit.com/techmahindra.com?size=200"
+    "logo_url": "https://logo.clearbit.com/techmahindra.com?size=100"
   },
   {
     "brand": "Genpact",
     "id": 11,
     "founded": "1994",
-    "logo_url": "https://logo.clearbit.com/genpact.com?size=200"
+    "logo_url": "https://logo.clearbit.com/genpact.com?size=100"
   },
   {
     "brand": "Amazon",
     "id": 12,
     "founded": "1994",
-    "logo_url": "https://logo.clearbit.com/amazon.com?size=200"
+    "logo_url": "https://logo.clearbit.com/amazon.com?size=100"
   }
   
 ]
