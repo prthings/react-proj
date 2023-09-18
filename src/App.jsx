@@ -11,7 +11,6 @@ export default function App() {
     <Router>
         <Nav />
         <Routes>
-            <Route path='/' element={<App/>}/>
             <Route path='/counter' element={<Counter />} />
             <Route path='/image' element={<Image/>} />
             <Route path='/fetch' element={<Fetch/>} />
