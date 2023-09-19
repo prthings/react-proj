@@ -225,12 +225,14 @@ text-align: center;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 380px;
-    height: 300px;
+    width: 290px;
+    height: 200px;
     margin-top: 400px;
     position:absolute;
+    right: inherit;
     background-color:#41c49c;
     border-radius: 20px;
+    transition: 3s ease-out;
   }
   .icons{
     display: block;
