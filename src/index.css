@@ -229,7 +229,7 @@ text-align: center;
     height: 200px;
     margin-top: 400px;
     position:absolute;
-    right: inherit;
+    right: 20px;
     background-color:#41c49c;
     border-radius: 20px;
     transition: 3s ease-out;
