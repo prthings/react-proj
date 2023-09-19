@@ -81,12 +81,35 @@ nav {
   align-items: center;
   margin: 20px;
 }
-#menu{
+.menu{
   list-style: none;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
-  width: 392px;
+  width: 492px;
+  padding: 20px;
+
+}
+.menu li a{
+  font-weight: 600;
+  font-size: 1.1rem;
+  text-decoration: none;
+  transition: 0.3s ease-in-out;
+}
+.menu li a:hover,
+.menu li a.active{
+color: #139c48;
+}
+.menu li a:hover::after
+.menu li a.active::after
+{
+  content: "";
+  width: 30px;
+  height: 2px;
+  background-color: #41c49c;
+  position: absolute;
+  bottom: -4px;
+  left: 2px;
 }
 .logo>h1>span{
   color: aquamarine;
@@ -168,6 +191,10 @@ th{
 .home{
 text-align: center;
 }
+.icons {
+  display: none;
+  color: #ffffff;
+}
 
 @media (prefers-color-scheme: light) {
   :root {
@@ -180,4 +207,33 @@ text-align: center;
   button {
     background-color: #f9f9f9;
   }
+}
+@media screen and (max-width: 700px){
+  .menu{
+    display: none;
+  }
+  .icons{
+    display: block;
+    color:#ffffff;
+  }
+
+}
+
+@media screen and (max-width: 700px){
+  .mobmenu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    position: relative;
+    width: 100%;
+    background-color:#41c49c;
+    border-radius: 20px;
+  }
+  .icons{
+    display: block;
+    transition:3s ease-in-out;
+  }
+
 }
