@@ -232,7 +232,8 @@ text-align: center;
     right: 14px;
     background-color:#41c49c;
     border-radius: 20px;
-    transition: 3s ease-out;
+    transition: 0.3s ease-out;
+    font-size:20px;
   }
   .icons{
     display: block;
