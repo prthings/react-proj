@@ -1,5 +1,5 @@
 import React from 'react'
-import {Link} from "react-router-dom"
+import {Outlet,Link} from "react-router-dom"
 import logo from '/logo.svg'
 
 function Nav() {
@@ -17,6 +17,7 @@ function Nav() {
                 <li><Link to='/image'>Image</Link></li>
             </ul>
         </div>
+        <Outlet />
     </nav>
   )
 }

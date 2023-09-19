@@ -13,6 +13,10 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+::selection{
+  background-color: #139c48;
+  color: #f9efef;
+}
 
 a {
   font-weight: 500;
@@ -160,6 +164,9 @@ th{
 }
 .img>img{
   border-radius: 10px;
+}
+.home{
+text-align: center;
 }
 
 @media (prefers-color-scheme: light) {
