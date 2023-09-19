@@ -8,9 +8,11 @@ function Counter1() {
   return (
     <div className='one'>
       <h1>{counter}</h1>
+      <div className='two'>
       <button onClick={()=>setCounter(counter - 1)}>Minus</button>
       <button onClick={handlereset}>Reset</button>
       <button onClick={()=>setCounter(counter + 1)}>Plus</button>
+      </div>
     </div>
   )
 }

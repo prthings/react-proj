@@ -24,9 +24,11 @@ export default class Counter extends Component {
     return (
       <div className='one'>
       <h1>{this.state.count}</h1>
+      <div className='two'>
       <button onClick={this.handleminus}>-</button>
       <button onClick={this.handlereset}>Reset</button>
       <button onClick={this.handleadd}>+</button>
+      </div>
       </div>
     )
   }

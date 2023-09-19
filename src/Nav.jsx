@@ -1,12 +1,14 @@
 import React from 'react'
 import {Link} from "react-router-dom"
+import logo from '../public/logo.svg'
 
 function Nav() {
   return (
     <nav>
         <div className="container">
             <div className='logo'>
-            <h1>Hello<span>PR</span></h1>
+              <a href="/"><img src={logo} alt="Logo" width={280} /></a>
+            {/* <h1>Hello<span>PR</span></h1> */}
             </div>
             <ul id='menu'>
                 <li><Link to='/counter1'>Counter function</Link></li>
