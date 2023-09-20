@@ -9,6 +9,7 @@ import Image from './Image'
 import Nav from './Nav'
 import Counter1 from './Counter1'
 import Quotes from './Quotes.jsx'
+import Mobile from './Mobile.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -21,6 +22,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             <Route path='/image' element={<Image/>} />
             <Route path='/fetch' element={<Fetch/>} />
             <Route path='/quote' element={<Quotes/>} />
+            <Route path='/pass' element={<Mobile/>} />
         </Routes>
     </Router>
   </React.StrictMode>,

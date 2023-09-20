@@ -4,7 +4,7 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(245, 245, 245, 0.87);
+  color: rgba(3, 3, 3, 0.87);
   background-color: #242424;
 
   font-synthesis: none;
@@ -20,7 +20,7 @@
 
 a {
   font-weight: 500;
-  color: #ffffff;
+  color: #080808;
   text-decoration: inherit;
 }
 a:hover {
@@ -40,6 +40,9 @@ h1 {
 }
 p{
   margin: 20px;
+}
+.h2-tag{
+  text-align: center;
 }
 
 button {
@@ -91,6 +94,7 @@ nav {
 
 }
 .menu li a{
+  color: #ffffff;
   font-weight: 600;
   font-size: 1.1rem;
   text-decoration: none;
