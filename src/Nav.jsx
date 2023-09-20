@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React, { useState } from 'react'
-import {Outlet,Link} from "react-router-dom"
+import {Link} from "react-router-dom"
 import logo from '/logo.svg'
 
 function Nav() {
@@ -23,7 +23,6 @@ function Nav() {
                 <li><Link to='/quote'>Quotes</Link></li>
             </ul>
         </div>
-        <Outlet />
         <div className='icons' onClick={toggle}>
           {mobile ? (<i className='fas fa-times'></i>):(<i className='fas fa-bars'></i>)}
         </div>
