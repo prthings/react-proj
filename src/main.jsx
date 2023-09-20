@@ -8,6 +8,7 @@ import Fetch from './Fetch'
 import Image from './Image'
 import Nav from './Nav'
 import Counter1 from './Counter1'
+import Quotes from './Quotes.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -19,6 +20,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             <Route path='/counter' element={<Counter />} />
             <Route path='/image' element={<Image/>} />
             <Route path='/fetch' element={<Fetch/>} />
+            <Route path='/quote' element={<Quotes/>} />
         </Routes>
     </Router>
   </React.StrictMode>,

@@ -20,6 +20,7 @@ function Nav() {
                 <li><Link to='/counter'>CounterC</Link></li>
                 <li><Link to='/fetch'>Fetch</Link></li>
                 <li><Link to='/image'>Image</Link></li>
+                <li><Link to='/quote'>Quotes</Link></li>
             </ul>
         </div>
         <Outlet />
