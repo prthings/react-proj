@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function App() {
   return (
@@ -6,10 +7,10 @@ export default function App() {
       <div className='home'>
       <h1>Hello Home</h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ut in atque, maxime incidunt, exercitationem quisquam consequatur odit sequi sapiente repellat debitis harum sit ab accusantium earum dolor facere rem.</p>
-      <button><a href="/pass">Password Generator</a></button>
-      <button><a href="/quote">Random Quotes</a></button>
-      <button><a href="/image">Image</a></button>
-      <button><a href="/fetch">Fetch</a></button>
+      <button><Link to="/pass">Password Generator</Link></button>
+      <button><Link to="/quote">Random Quotes</Link></button>
+      <button><Link to="/image">Image</Link></button>
+      <button><Link to="/fetch">Fetch</Link></button>
       </div>
     </div>
   )
