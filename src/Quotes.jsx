@@ -3,12 +3,11 @@ import { useState, useEffect } from 'react';
 
 function Quotes() {
     const [data, setData] = useState([]);
-  
     useEffect(() => {
-      fetch('https://zenquotes.io/api/random')
+      fetch('https://zenquotes.io/api/random', {mode: 'no-cors'})
         .then(response => response.json())
         .then(data => setData(data))
-        .catch(error => console.error(error));
+        .catch(error => console.log(error))
     }, []);
   return (
     <div className='data'>
@@ -16,7 +15,6 @@ function Quotes() {
            {data.map(items=>
             <div key={items.c}>
                 <h2>{items.q}</h2>
-                <p>{items.a}</p>
             </div>
            )}
     </div>
