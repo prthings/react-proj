@@ -24,7 +24,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             <Route path='/fetch' element={<Fetch/>} />
             <Route path='/quote' element={<Quotes/>} />
             <Route path='/pass' element={<Mobile/>} />
-<Route path='/pass' element={<Freeapi/>} />
+<Route path='/freeapi' element={<Freeapi/>} />
         </Routes>
     </Router>
   </React.StrictMode>,
