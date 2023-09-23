@@ -11,6 +11,7 @@ export default function App() {
       <button><Link to="/quote">Random Quotes</Link></button>
       <button><Link to="/image">Image</Link></button>
       <button><Link to="/fetch">Fetch</Link></button>
+<button><Link to="/freeapi">Free Api</Link></button>
       </div>
     </div>
   )
