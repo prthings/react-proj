@@ -1,1479 +1,1479 @@
 [
     {
         "id": 1,
-        "CATEGORY": "API Directories",
-        "API NAME": "APIs.guru",
-        "DESCRIPTION": "OpenAPI API directory",
-        "SAMPLE URL": "https://api.apis.guru/v2/list.json"
+        "category": "API Directories",
+        "api-name": "APIs.guru",
+        "description": "OpenAPI API directory",
+        "url": "https://api.apis.guru/v2/list.json"
     },
     {
         "id": 2,
-        "CATEGORY": "API Directories",
-        "API NAME": "Public APIs",
-        "DESCRIPTION": "List of public APIs",
-        "SAMPLE URL": "https://api.publicapis.org/entries"
+        "category": "API Directories",
+        "api-name": "Public APIs",
+        "description": "List of public APIs",
+        "url": "https://api.publicapis.org/entries"
     },
     {
         "id": 3,
-        "CATEGORY": "Art &amp; Images",
-        "API NAME": "Art Institute of Chicago",
-        "DESCRIPTION": "Artwork from the museum",
-        "SAMPLE URL": "https://api.artic.edu/api/v1/artworks/search?q=cats"
+        "category": "Art &amp; Images",
+        "api-name": "Art Institute of Chicago",
+        "description": "Artwork from the museum",
+        "url": "https://api.artic.edu/api/v1/artworks/search?q=cats"
     },
     {
         "id": 4,
-        "CATEGORY": "Art &amp; Images",
-        "API NAME": "COLOURlovers",
-        "DESCRIPTION": "Color trends",
-        "SAMPLE URL": "https://www.colourlovers.com/api/colors/new?format=json"
+        "category": "Art &amp; Images",
+        "api-name": "COLOURlovers",
+        "description": "Color trends",
+        "url": "https://www.colourlovers.com/api/colors/new?format=json"
     },
     {
         "id": 5,
-        "CATEGORY": "Art &amp; Images",
-        "API NAME": "DiceBear",
-        "DESCRIPTION": "Generate random SVG avatars",
-        "SAMPLE URL": "https://api.dicebear.com/6.x/pixel-art/svg"
+        "category": "Art &amp; Images",
+        "api-name": "DiceBear",
+        "description": "Generate random SVG avatars",
+        "url": "https://api.dicebear.com/6.x/pixel-art/svg"
     },
     {
         "id": 6,
-        "CATEGORY": "Art &amp; Images",
-        "API NAME": "Dogs",
-        "DESCRIPTION": "Random dog images",
-        "SAMPLE URL": "https://dog.ceo/api/breeds/image/random"
+        "category": "Art &amp; Images",
+        "api-name": "Dogs",
+        "description": "Random dog images",
+        "url": "https://dog.ceo/api/breeds/image/random"
     },
     {
         "id": 7,
-        "CATEGORY": "Art &amp; Images",
-        "API NAME": "HTTP Cats",
-        "DESCRIPTION": "Cat images for HTTP status codes",
-        "SAMPLE URL": "https://http.cat/401"
+        "category": "Art &amp; Images",
+        "api-name": "HTTP Cats",
+        "description": "Cat images for HTTP status codes",
+        "url": "https://http.cat/401"
     },
     {
         "id": 8,
-        "CATEGORY": "Art &amp; Images",
-        "API NAME": "Metropolitan Museum of Art",
-        "DESCRIPTION": "Artwork from the museum",
-        "SAMPLE URL": "https://collectionapi.metmuseum.org/public/collection/v1/objects/100"
+        "category": "Art &amp; Images",
+        "api-name": "Metropolitan Museum of Art",
+        "description": "Artwork from the museum",
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/100"
     },
     {
         "id": 9,
-        "CATEGORY": "Art &amp; Images",
-        "API NAME": "PHP-Noise",
-        "DESCRIPTION": "Noise background image generator",
-        "SAMPLE URL": "https://php-noise.com/noise.php?hex=FFFFFF&amp;json"
+        "category": "Art &amp; Images",
+        "api-name": "PHP-Noise",
+        "description": "Noise background image generator",
+        "url": "https://php-noise.com/noise.php?hex=FFFFFF&amp;json"
     },
     {
         "id": 10,
-        "CATEGORY": "Art &amp; Images",
-        "API NAME": "Placebear",
-        "DESCRIPTION": "Pictures of bears for use as placeholders",
-        "SAMPLE URL": "https://placebear.com/200/300"
+        "category": "Art &amp; Images",
+        "api-name": "Placebear",
+        "description": "Pictures of bears for use as placeholders",
+        "url": "https://placebear.com/200/300"
     },
     {
         "id": 11,
-        "CATEGORY": "Art &amp; Images",
-        "API NAME": "Placekitten",
-        "DESCRIPTION": "Placeholder kitten images",
-        "SAMPLE URL": "http://placekitten.com/200/300"
+        "category": "Art &amp; Images",
+        "api-name": "Placekitten",
+        "description": "Placeholder kitten images",
+        "url": "http://placekitten.com/200/300"
     },
     {
         "id": 12,
-        "CATEGORY": "Art &amp; Images",
-        "API NAME": "Random Dog",
-        "DESCRIPTION": "Random dog images",
-        "SAMPLE URL": "https://random.dog/woof.json"
+        "category": "Art &amp; Images",
+        "api-name": "Random Dog",
+        "description": "Random dog images",
+        "url": "https://random.dog/woof.json"
     },
     {
         "id": 13,
-        "CATEGORY": "Art &amp; Images",
-        "API NAME": "RandomFox",
-        "DESCRIPTION": "Random pictures of foxes",
-        "SAMPLE URL": "https://randomfox.ca/floof/"
+        "category": "Art &amp; Images",
+        "api-name": "RandomFox",
+        "description": "Random pictures of foxes",
+        "url": "https://randomfox.ca/floof/"
     },
     {
         "id": 14,
-        "CATEGORY": "Art &amp; Images",
-        "API NAME": "RoboHash",
-        "DESCRIPTION": "Generate unique images from text",
-        "SAMPLE URL": "https://robohash.org/onerobot.png"
+        "category": "Art &amp; Images",
+        "api-name": "RoboHash",
+        "description": "Generate unique images from text",
+        "url": "https://robohash.org/onerobot.png"
     },
     {
         "id": 15,
-        "CATEGORY": "Art &amp; Images",
-        "API NAME": "Shibe",
-        "DESCRIPTION": "Random pictures of Shiba Inu dogs",
-        "SAMPLE URL": "https://shibe.online/api/shibes?count=10"
+        "category": "Art &amp; Images",
+        "api-name": "Shibe",
+        "description": "Random pictures of Shiba Inu dogs",
+        "url": "https://shibe.online/api/shibes?count=10"
     },
     {
         "id": 16,
-        "CATEGORY": "Art &amp; Images",
-        "API NAME": "Vadivelu Status Codes",
-        "DESCRIPTION": "HTTP Codes with images",
-        "SAMPLE URL": "https://vadivelu.anoram.com/gif/200"
+        "category": "Art &amp; Images",
+        "api-name": "Vadivelu Status Codes",
+        "description": "HTTP Codes with images",
+        "url": "https://vadivelu.anoram.com/gif/200"
     },
     {
         "id": 17,
-        "CATEGORY": "Calendar",
-        "API NAME": "Nager.Date",
-        "DESCRIPTION": "Public holidays",
-        "SAMPLE URL": "https://date.nager.at/api/v2/publicholidays/2020/US"
+        "category": "Calendar",
+        "api-name": "Nager.Date",
+        "description": "Public holidays",
+        "url": "https://date.nager.at/api/v2/publicholidays/2020/US"
     },
     {
         "id": 18,
-        "CATEGORY": "Calendar",
-        "API NAME": "UK Bank Holidays",
-        "DESCRIPTION": "UK bank holidays",
-        "SAMPLE URL": "https://www.gov.uk/bank-holidays.json"
+        "category": "Calendar",
+        "api-name": "UK Bank Holidays",
+        "description": "UK bank holidays",
+        "url": "https://www.gov.uk/bank-holidays.json"
     },
     {
         "id": 19,
-        "CATEGORY": "Content",
-        "API NAME": "4chan",
-        "DESCRIPTION": "4chan's read-only API",
-        "SAMPLE URL": "https://a.4cdn.org/boards.json"
+        "category": "Content",
+        "api-name": "4chan",
+        "description": "4chan's read-only API",
+        "url": "https://a.4cdn.org/boards.json"
     },
     {
         "id": 20,
-        "CATEGORY": "Content",
-        "API NAME": "Anime News Network",
-        "DESCRIPTION": "Anime/manga encyclopedia",
-        "SAMPLE URL": "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?title=4658"
+        "category": "Content",
+        "api-name": "Anime News Network",
+        "description": "Anime/manga encyclopedia",
+        "url": "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?title=4658"
     },
     {
         "id": 21,
-        "CATEGORY": "Content",
-        "API NAME": "Chronicling America",
-        "DESCRIPTION": "Historic US newspapers",
-        "SAMPLE URL": "https://chroniclingamerica.loc.gov/newspapers.json"
+        "category": "Content",
+        "api-name": "Chronicling America",
+        "description": "Historic US newspapers",
+        "url": "https://chroniclingamerica.loc.gov/newspapers.json"
     },
     {
         "id": 22,
-        "CATEGORY": "Content",
-        "API NAME": "Datamuse",
-        "DESCRIPTION": "Query words matching conditions",
-        "SAMPLE URL": "https://api.datamuse.com/words?ml=ringing+in+the+ears"
+        "category": "Content",
+        "api-name": "Datamuse",
+        "description": "Query words matching conditions",
+        "url": "https://api.datamuse.com/words?ml=ringing+in+the+ears"
     },
     {
         "id": 23,
-        "CATEGORY": "Content",
-        "API NAME": "HackerNews",
-        "DESCRIPTION": "Hacker News API",
-        "SAMPLE URL": "https://hacker-news.firebaseio.com/v0/item/8863.json"
+        "category": "Content",
+        "api-name": "HackerNews",
+        "description": "Hacker News API",
+        "url": "https://hacker-news.firebaseio.com/v0/item/8863.json"
     },
     {
         "id": 24,
-        "CATEGORY": "Content",
-        "API NAME": "Jikan",
-        "DESCRIPTION": "Unofficial MyAnimeList API",
-        "SAMPLE URL": "https://api.jikan.moe/v4/anime?q=naruto"
+        "category": "Content",
+        "api-name": "Jikan",
+        "description": "Unofficial MyAnimeList API",
+        "url": "https://api.jikan.moe/v4/anime?q=naruto"
     },
     {
         "id": 25,
-        "CATEGORY": "Content",
-        "API NAME": "Listly",
-        "DESCRIPTION": "Top 10 lists",
-        "SAMPLE URL": "https://list.ly/api/v4/meta?url=http://google.com"
+        "category": "Content",
+        "api-name": "Listly",
+        "description": "Top 10 lists",
+        "url": "https://list.ly/api/v4/meta?url=http://google.com"
     },
     {
         "id": 26,
-        "CATEGORY": "Content",
-        "API NAME": "Mediawiki",
-        "DESCRIPTION": "Wikipedia page content and revisions",
-        "SAMPLE URL": "https://en.wikipedia.org/w/api.php?action=query&amp;prop=revisions&amp;titles=Pet_door&amp;rvprop=content&amp;format=json"
+        "category": "Content",
+        "api-name": "Mediawiki",
+        "description": "Wikipedia page content and revisions",
+        "url": "https://en.wikipedia.org/w/api.php?action=query&amp;prop=revisions&amp;titles=Pet_door&amp;rvprop=content&amp;format=json"
     },
     {
         "id": 27,
-        "CATEGORY": "Content",
-        "API NAME": "Reddit",
-        "DESCRIPTION": "Public content from Reddit",
-        "SAMPLE URL": "https://www.reddit.com/r/Wallstreetbets/top.json?limit=10&amp;t=year"
+        "category": "Content",
+        "api-name": "Reddit",
+        "description": "Public content from Reddit",
+        "url": "https://www.reddit.com/r/Wallstreetbets/top.json?limit=10&amp;t=year"
     },
     {
         "id": 28,
-        "CATEGORY": "Content",
-        "API NAME": "Reddit Stocks",
-        "DESCRIPTION": "Top stocks from Wallstreetbets",
-        "SAMPLE URL": "https://tradestie.com/api/v1/apps/reddit"
+        "category": "Content",
+        "api-name": "Reddit Stocks",
+        "description": "Top stocks from Wallstreetbets",
+        "url": "https://tradestie.com/api/v1/apps/reddit"
     },
     {
         "id": 29,
-        "CATEGORY": "Content",
-        "API NAME": "Rick and Morty",
-        "DESCRIPTION": "Rick and Morty characters",
-        "SAMPLE URL": "https://rickandmortyapi.com/api/character/108"
+        "category": "Content",
+        "api-name": "Rick and Morty",
+        "description": "Rick and Morty characters",
+        "url": "https://rickandmortyapi.com/api/character/108"
     },
     {
         "id": 30,
-        "CATEGORY": "Content",
-        "API NAME": "SWAPI",
-        "DESCRIPTION": "Star Wars information",
-        "SAMPLE URL": "https://swapi.dev/api/planets/3/?format=json"
+        "category": "Content",
+        "api-name": "SWAPI",
+        "description": "Star Wars information",
+        "url": "https://swapi.dev/api/planets/3/?format=json"
     },
     {
         "id": 31,
-        "CATEGORY": "Content",
-        "API NAME": "TVMaze",
-        "DESCRIPTION": "TV show information",
-        "SAMPLE URL": "http://api.tvmaze.com/search/shows?q=golden girls"
+        "category": "Content",
+        "api-name": "TVMaze",
+        "description": "TV show information",
+        "url": "http://api.tvmaze.com/search/shows?q=golden girls"
     },
     {
         "id": 32,
-        "CATEGORY": "Content",
-        "API NAME": "WordPress",
-        "DESCRIPTION": "Posts from any public WordPress site",
-        "SAMPLE URL": "https://techcrunch.com/wp-json/wp/v2/posts?per_page=100&amp;context=embed"
+        "category": "Content",
+        "api-name": "WordPress",
+        "description": "Posts from any public WordPress site",
+        "url": "https://techcrunch.com/wp-json/wp/v2/posts?per_page=100&amp;context=embed"
     },
     {
         "id": 33,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "Binance",
-        "DESCRIPTION": "24 hr crypto data",
-        "SAMPLE URL": "https://data.binance.com/api/v3/ticker/24hr"
+        "category": "Crypto &amp; Finance",
+        "api-name": "Binance",
+        "description": "24 hr crypto data",
+        "url": "https://data.binance.com/api/v3/ticker/24hr"
     },
     {
         "id": 34,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "CoinBase",
-        "DESCRIPTION": "Currency codes and names",
-        "SAMPLE URL": "https://api.coinbase.com/v2/currencies"
+        "category": "Crypto &amp; Finance",
+        "api-name": "CoinBase",
+        "description": "Currency codes and names",
+        "url": "https://api.coinbase.com/v2/currencies"
     },
     {
         "id": 35,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "CoinCap",
-        "DESCRIPTION": "Real time cryptocurrency prices",
-        "SAMPLE URL": "https://api.coincap.io/v2/assets"
+        "category": "Crypto &amp; Finance",
+        "api-name": "CoinCap",
+        "description": "Real time cryptocurrency prices",
+        "url": "https://api.coincap.io/v2/assets"
     },
     {
         "id": 36,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "CoinDesk",
-        "DESCRIPTION": "Bitcoin price index",
-        "SAMPLE URL": "https://api.coindesk.com/v1/bpi/currentprice.json"
+        "category": "Crypto &amp; Finance",
+        "api-name": "CoinDesk",
+        "description": "Bitcoin price index",
+        "url": "https://api.coindesk.com/v1/bpi/currentprice.json"
     },
     {
         "id": 37,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "CoinGecko",
-        "DESCRIPTION": "Cryptocurrency market data",
-        "SAMPLE URL": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd"
+        "category": "Crypto &amp; Finance",
+        "api-name": "CoinGecko",
+        "description": "Cryptocurrency market data",
+        "url": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd"
     },
     {
         "id": 38,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "CoinLore",
-        "DESCRIPTION": "Cryptocurrency market data",
-        "SAMPLE URL": "https://api.coinlore.net/api/tickers/"
+        "category": "Crypto &amp; Finance",
+        "api-name": "CoinLore",
+        "description": "Cryptocurrency market data",
+        "url": "https://api.coinlore.net/api/tickers/"
     },
     {
         "id": 39,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "CoinMap",
-        "DESCRIPTION": "Crypto ATMs",
-        "SAMPLE URL": "https://coinmap.org/api/v1/venues/"
+        "category": "Crypto &amp; Finance",
+        "api-name": "CoinMap",
+        "description": "Crypto ATMs",
+        "url": "https://coinmap.org/api/v1/venues/"
     },
     {
         "id": 40,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "Coinpaprika",
-        "DESCRIPTION": "Cryptocurrency data",
-        "SAMPLE URL": "https://api.coinpaprika.com/v1/coins/btc-bitcoin"
+        "category": "Crypto &amp; Finance",
+        "api-name": "Coinpaprika",
+        "description": "Cryptocurrency data",
+        "url": "https://api.coinpaprika.com/v1/coins/btc-bitcoin"
     },
     {
         "id": 41,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "CoinStats",
-        "DESCRIPTION": "Cryptocurrency market data",
-        "SAMPLE URL": "https://api.coinstats.app/public/v1/markets?coinId=bitcoin"
+        "category": "Crypto &amp; Finance",
+        "api-name": "CoinStats",
+        "description": "Cryptocurrency market data",
+        "url": "https://api.coinstats.app/public/v1/markets?coinId=bitcoin"
     },
     {
         "id": 42,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "Currency Rates",
-        "DESCRIPTION": "Currency exchange rates",
-        "SAMPLE URL": "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/eur.json"
+        "category": "Crypto &amp; Finance",
+        "api-name": "Currency Rates",
+        "description": "Currency exchange rates",
+        "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/eur.json"
     },
     {
         "id": 43,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "DEX Screener",
-        "DESCRIPTION": "Blockchain screener",
-        "SAMPLE URL": "https://api.dexscreener.com/latest/dex/search?q=WBNB%20USDC"
+        "category": "Crypto &amp; Finance",
+        "api-name": "DEX Screener",
+        "description": "Blockchain screener",
+        "url": "https://api.dexscreener.com/latest/dex/search?q=WBNB%20USDC"
     },
     {
         "id": 44,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "Exchangerate",
-        "DESCRIPTION": "Currency exchange &amp; crypto rates",
-        "SAMPLE URL": "https://api.exchangerate.host/latest"
+        "category": "Crypto &amp; Finance",
+        "api-name": "Exchangerate",
+        "description": "Currency exchange &amp; crypto rates",
+        "url": "https://api.exchangerate.host/latest"
     },
     {
         "id": 45,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "ExchangeRate-API",
-        "DESCRIPTION": "Exchange rates",
-        "SAMPLE URL": "https://open.er-api.com/v6/latest/USD"
+        "category": "Crypto &amp; Finance",
+        "api-name": "ExchangeRate-API",
+        "description": "Exchange rates",
+        "url": "https://open.er-api.com/v6/latest/USD"
     },
     {
         "id": 46,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "Gemini",
-        "DESCRIPTION": "Cryptocurrency market data",
-        "SAMPLE URL": "https://api.gemini.com/v2/ticker/btcusd"
+        "category": "Crypto &amp; Finance",
+        "api-name": "Gemini",
+        "description": "Cryptocurrency market data",
+        "url": "https://api.gemini.com/v2/ticker/btcusd"
     },
     {
         "id": 47,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "Kraken",
-        "DESCRIPTION": "Crypto data",
-        "SAMPLE URL": "https://api.kraken.com/0/public/Trades?pair=ltcusd"
+        "category": "Crypto &amp; Finance",
+        "api-name": "Kraken",
+        "description": "Crypto data",
+        "url": "https://api.kraken.com/0/public/Trades?pair=ltcusd"
     },
     {
         "id": 48,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "KuCoin",
-        "DESCRIPTION": "Crypto data",
-        "SAMPLE URL": "https://api.kucoin.com/api/v1/market/stats?symbol=BTC-USDT"
+        "category": "Crypto &amp; Finance",
+        "api-name": "KuCoin",
+        "description": "Crypto data",
+        "url": "https://api.kucoin.com/api/v1/market/stats?symbol=BTC-USDT"
     },
     {
         "id": 49,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "NBP Web",
-        "DESCRIPTION": "Currency exchange rates and gold prices",
-        "SAMPLE URL": "http://api.nbp.pl/api/cenyzlota/last/30/?format=json"
+        "category": "Crypto &amp; Finance",
+        "api-name": "NBP Web",
+        "description": "Currency exchange rates and gold prices",
+        "url": "http://api.nbp.pl/api/cenyzlota/last/30/?format=json"
     },
     {
         "id": 50,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "Nexchange",
-        "DESCRIPTION": "Cryptocurrency market data",
-        "SAMPLE URL": "https://api.n.exchange/en/api/v1/price/btcusd/history/?hours=0.1&amp;data_points=3&amp;market_code=nex"
+        "category": "Crypto &amp; Finance",
+        "api-name": "Nexchange",
+        "description": "Cryptocurrency market data",
+        "url": "https://api.n.exchange/en/api/v1/price/btcusd/history/?hours=0.1&amp;data_points=3&amp;market_code=nex"
     },
     {
         "id": 51,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "Razorpay IFSC",
-        "DESCRIPTION": "Indian Financial Systems Codes",
-        "SAMPLE URL": "https://ifsc.razorpay.com/YESB0DNB002"
+        "category": "Crypto &amp; Finance",
+        "api-name": "Razorpay IFSC",
+        "description": "Indian Financial Systems Codes",
+        "url": "https://ifsc.razorpay.com/YESB0DNB002"
     },
     {
         "id": 52,
-        "CATEGORY": "Crypto &amp; Finance",
-        "API NAME": "WazirX",
-        "DESCRIPTION": "Crypto data",
-        "SAMPLE URL": "https://api.wazirx.com/sapi/v1/tickers/24hr"
+        "category": "Crypto &amp; Finance",
+        "api-name": "WazirX",
+        "description": "Crypto data",
+        "url": "https://api.wazirx.com/sapi/v1/tickers/24hr"
     },
     {
         "id": 53,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "Agify",
-        "DESCRIPTION": "Predict age based on a name",
-        "SAMPLE URL": "https://api.agify.io?name=bella"
+        "category": "Developer Tools",
+        "api-name": "Agify",
+        "description": "Predict age based on a name",
+        "url": "https://api.agify.io?name=bella"
     },
     {
         "id": 54,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "APIC Agent",
-        "DESCRIPTION": "Detect browser, OS, and device from user agent",
-        "SAMPLE URL": "https://api.apicagent.com/?ua=Mozilla/5.0%20(Macintosh;%20Intel%20Mac%20OS%20X%2010_15_5)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/89.0.4389.114%20Safari/537.36"
+        "category": "Developer Tools",
+        "api-name": "APIC Agent",
+        "description": "Detect browser, OS, and device from user agent",
+        "url": "https://api.apicagent.com/?ua=Mozilla/5.0%20(Macintosh;%20Intel%20Mac%20OS%20X%2010_15_5)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/89.0.4389.114%20Safari/537.36"
     },
     {
         "id": 55,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "Cloudflare Trace",
-        "DESCRIPTION": "Get IP address, user agent, etc",
-        "SAMPLE URL": "https://1.1.1.1/cdn-cgi/trace"
+        "category": "Developer Tools",
+        "api-name": "Cloudflare Trace",
+        "description": "Get IP address, user agent, etc",
+        "url": "https://1.1.1.1/cdn-cgi/trace"
     },
     {
         "id": 56,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "Digital Ocean Status",
-        "DESCRIPTION": "DigitalOcean status",
-        "SAMPLE URL": "https://status.digitalocean.com/api/v2/summary.json"
+        "category": "Developer Tools",
+        "api-name": "Digital Ocean Status",
+        "description": "DigitalOcean status",
+        "url": "https://status.digitalocean.com/api/v2/summary.json"
     },
     {
         "id": 57,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "Favicon Grabber",
-        "DESCRIPTION": "Get the favicon for any site",
-        "SAMPLE URL": "https://favicongrabber.com/api/grab/github.com"
+        "category": "Developer Tools",
+        "api-name": "Favicon Grabber",
+        "description": "Get the favicon for any site",
+        "url": "https://favicongrabber.com/api/grab/github.com"
     },
     {
         "id": 58,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "FilterLists",
-        "DESCRIPTION": "Lists of filters used by ad blockers",
-        "SAMPLE URL": "http://filterlists.com/api/directory/lists"
+        "category": "Developer Tools",
+        "api-name": "FilterLists",
+        "description": "Lists of filters used by ad blockers",
+        "url": "http://filterlists.com/api/directory/lists"
     },
     {
         "id": 59,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "Genderize.io",
-        "DESCRIPTION": "Predict gender based on a name",
-        "SAMPLE URL": "https://api.genderize.io?name=scott"
+        "category": "Developer Tools",
+        "api-name": "Genderize.io",
+        "description": "Predict gender based on a name",
+        "url": "https://api.genderize.io?name=scott"
     },
     {
         "id": 60,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "Google Favicons",
-        "DESCRIPTION": "Google's unofficial favicon fetcher",
-        "SAMPLE URL": "https://www.google.com/s2/favicons?domain=quora.com&amp;sz=32"
+        "category": "Developer Tools",
+        "api-name": "Google Favicons",
+        "description": "Google's unofficial favicon fetcher",
+        "url": "https://www.google.com/s2/favicons?domain=quora.com&amp;sz=32"
     },
     {
         "id": 61,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "goQR",
-        "DESCRIPTION": "Create and read QR codes",
-        "SAMPLE URL": "http://api.qrserver.com/v1/create-qr-code/?data=https://mixedanalytics.com&amp;size=100x100"
+        "category": "Developer Tools",
+        "api-name": "goQR",
+        "description": "Create and read QR codes",
+        "url": "http://api.qrserver.com/v1/create-qr-code/?data=https://mixedanalytics.com&amp;size=100x100"
     },
     {
         "id": 62,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "HTTPBin",
-        "DESCRIPTION": "Inspect user agent and headers",
-        "SAMPLE URL": "http://httpbin.org/get"
+        "category": "Developer Tools",
+        "api-name": "HTTPBin",
+        "description": "Inspect user agent and headers",
+        "url": "http://httpbin.org/get"
     },
     {
         "id": 63,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "Image-Charts",
-        "DESCRIPTION": "Chart images",
-        "SAMPLE URL": "https://image-charts.com/chart?cht=p3&amp;chs=700x100&amp;chd=t:60,40&amp;chl=Hello|World&amp;chan&amp;chf=ps0-0,lg,45,ffeb3b,0.2,f44336,1|ps0-1,lg,45,8bc34a,0.2,009688,1"
+        "category": "Developer Tools",
+        "api-name": "Image-Charts",
+        "description": "Chart images",
+        "url": "https://image-charts.com/chart?cht=p3&amp;chs=700x100&amp;chd=t:60,40&amp;chl=Hello|World&amp;chan&amp;chf=ps0-0,lg,45,ffeb3b,0.2,f44336,1|ps0-1,lg,45,8bc34a,0.2,009688,1"
     },
     {
         "id": 64,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "IPify",
-        "DESCRIPTION": "Get public IP address",
-        "SAMPLE URL": "https://api.ipify.org?format=json"
+        "category": "Developer Tools",
+        "api-name": "IPify",
+        "description": "Get public IP address",
+        "url": "https://api.ipify.org?format=json"
     },
     {
         "id": 65,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "is.gd",
-        "DESCRIPTION": "URL shortener",
-        "SAMPLE URL": "https://is.gd/create.php?format=simple&amp;url=www.example.com"
+        "category": "Developer Tools",
+        "api-name": "is.gd",
+        "description": "URL shortener",
+        "url": "https://is.gd/create.php?format=simple&amp;url=www.example.com"
     },
     {
         "id": 66,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "Microlink",
-        "DESCRIPTION": "Retrieve metadata and screenshots from any URL",
-        "SAMPLE URL": "https://api.microlink.io/?url=https://github.com/microlinkhq"
+        "category": "Developer Tools",
+        "api-name": "Microlink",
+        "description": "Retrieve metadata and screenshots from any URL",
+        "url": "https://api.microlink.io/?url=https://github.com/microlinkhq"
     },
     {
         "id": 67,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "Nationalize.io",
-        "DESCRIPTION": "Predict nationality based on a name",
-        "SAMPLE URL": "https://api.nationalize.io?name=michael"
+        "category": "Developer Tools",
+        "api-name": "Nationalize.io",
+        "description": "Predict nationality based on a name",
+        "url": "https://api.nationalize.io?name=michael"
     },
     {
         "id": 68,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "QuickChart",
-        "DESCRIPTION": "Generate charts on-the-fly",
-        "SAMPLE URL": "https://quickchart.io/chart?c={type:'bar',data:{labels:[2019,2020,2021,2022, 2023],datasets:[{label:'Users',data:[120,60,50,180,120]}]}}"
+        "category": "Developer Tools",
+        "api-name": "QuickChart",
+        "description": "Generate charts on-the-fly",
+        "url": "https://quickchart.io/chart?c={type:'bar',data:{labels:[2019,2020,2021,2022, 2023],datasets:[{label:'Users',data:[120,60,50,180,120]}]}}"
     },
     {
         "id": 69,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "Serialif Color",
-        "DESCRIPTION": "Get colors in different formats",
-        "SAMPLE URL": "https://color.serialif.com/aquamarine"
+        "category": "Developer Tools",
+        "api-name": "Serialif Color",
+        "description": "Get colors in different formats",
+        "url": "https://color.serialif.com/aquamarine"
     },
     {
         "id": 70,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "shrtcode",
-        "DESCRIPTION": "URL shortener",
-        "SAMPLE URL": "https://api.shrtco.de/v2/shorten?url=example.org/very/long/link.html"
+        "category": "Developer Tools",
+        "api-name": "shrtcode",
+        "description": "URL shortener",
+        "url": "https://api.shrtco.de/v2/shorten?url=example.org/very/long/link.html"
     },
     {
         "id": 71,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "Un-Shorten",
-        "DESCRIPTION": "Unshorten shortened URLs",
-        "SAMPLE URL": "https://unshorten.me/json/goo.gl/IGL1lE"
+        "category": "Developer Tools",
+        "api-name": "Un-Shorten",
+        "description": "Unshorten shortened URLs",
+        "url": "https://unshorten.me/json/goo.gl/IGL1lE"
     },
     {
         "id": 72,
-        "CATEGORY": "Developer Tools",
-        "API NAME": "URLhaus",
-        "DESCRIPTION": "Receive and submit malware URLs",
-        "SAMPLE URL": "https://urlhaus-api.abuse.ch/v1/urls/recent/limit/3/"
+        "category": "Developer Tools",
+        "api-name": "URLhaus",
+        "description": "Receive and submit malware URLs",
+        "url": "https://urlhaus-api.abuse.ch/v1/urls/recent/limit/3/"
     },
     {
         "id": 73,
-        "CATEGORY": "Food &amp; Drink",
-        "API NAME": "Cocktail Database",
-        "DESCRIPTION": "Cocktail recipes",
-        "SAMPLE URL": "https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita"
+        "category": "Food &amp; Drink",
+        "api-name": "Cocktail Database",
+        "description": "Cocktail recipes",
+        "url": "https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita"
     },
     {
         "id": 74,
-        "CATEGORY": "Food &amp; Drink",
-        "API NAME": "Open Brewery DB",
-        "DESCRIPTION": "Breweries",
-        "SAMPLE URL": "https://api.openbrewerydb.org/breweries"
+        "category": "Food &amp; Drink",
+        "api-name": "Open Brewery DB",
+        "description": "Breweries",
+        "url": "https://api.openbrewerydb.org/breweries"
     },
     {
         "id": 75,
-        "CATEGORY": "Food &amp; Drink",
-        "API NAME": "Open Food Facts",
-        "DESCRIPTION": "Data on food products",
-        "SAMPLE URL": "https://world.openfoodfacts.org/api/v0/product/737628064502.json"
+        "category": "Food &amp; Drink",
+        "api-name": "Open Food Facts",
+        "description": "Data on food products",
+        "url": "https://world.openfoodfacts.org/api/v0/product/737628064502.json"
     },
     {
         "id": 76,
-        "CATEGORY": "Food &amp; Drink",
-        "API NAME": "PunkAPI",
-        "DESCRIPTION": "Beer recipes",
-        "SAMPLE URL": "https://api.punkapi.com/v2/beers"
+        "category": "Food &amp; Drink",
+        "api-name": "PunkAPI",
+        "description": "Beer recipes",
+        "url": "https://api.punkapi.com/v2/beers"
     },
     {
         "id": 77,
-        "CATEGORY": "Food &amp; Drink",
-        "API NAME": "Whisky Hunter",
-        "DESCRIPTION": "Whisky auctions",
-        "SAMPLE URL": "https://whiskyhunter.net/api/auctions_data/?format=json"
+        "category": "Food &amp; Drink",
+        "api-name": "Whisky Hunter",
+        "description": "Whisky auctions",
+        "url": "https://whiskyhunter.net/api/auctions_data/?format=json"
     },
     {
         "id": 78,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "AmiiboAPI",
-        "DESCRIPTION": "Nintendo Amiibo database",
-        "SAMPLE URL": "https://www.amiiboapi.com/api/amiibo/?name=mario"
+        "category": "Fun &amp; Games",
+        "api-name": "AmiiboAPI",
+        "description": "Nintendo Amiibo database",
+        "url": "https://www.amiiboapi.com/api/amiibo/?name=mario"
     },
     {
         "id": 79,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Barter",
-        "DESCRIPTION": "Digital game libraries, wishlists and tradables",
-        "SAMPLE URL": "https://barter.vg/browse/cards/json"
+        "category": "Fun &amp; Games",
+        "api-name": "Barter",
+        "description": "Digital game libraries, wishlists and tradables",
+        "url": "https://barter.vg/browse/cards/json"
     },
     {
         "id": 80,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Board Game Geek",
-        "DESCRIPTION": "Board games",
-        "SAMPLE URL": "https://boardgamegeek.com/xmlapi/search?search=frika"
+        "category": "Fun &amp; Games",
+        "api-name": "Board Game Geek",
+        "description": "Board games",
+        "url": "https://boardgamegeek.com/xmlapi/search?search=frika"
     },
     {
         "id": 81,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Bored",
-        "DESCRIPTION": "Activity suggestions",
-        "SAMPLE URL": "https://www.boredapi.com/api/activity"
+        "category": "Fun &amp; Games",
+        "api-name": "Bored",
+        "description": "Activity suggestions",
+        "url": "https://www.boredapi.com/api/activity"
     },
     {
         "id": 82,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "CheapShark",
-        "DESCRIPTION": "Price comparison for digital games",
-        "SAMPLE URL": "https://www.cheapshark.com/api/1.0/deals?upperPrice=15"
+        "category": "Fun &amp; Games",
+        "api-name": "CheapShark",
+        "description": "Price comparison for digital games",
+        "url": "https://www.cheapshark.com/api/1.0/deals?upperPrice=15"
     },
     {
         "id": 83,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Chuck Norris Jokes",
-        "DESCRIPTION": "Chuck Norris facts",
-        "SAMPLE URL": "https://api.chucknorris.io/jokes/random"
+        "category": "Fun &amp; Games",
+        "api-name": "Chuck Norris Jokes",
+        "description": "Chuck Norris facts",
+        "url": "https://api.chucknorris.io/jokes/random"
     },
     {
         "id": 84,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "D&amp;D 5th Edition",
-        "DESCRIPTION": "Official 5th Edition of Dungeons &amp; Dragons",
-        "SAMPLE URL": "https://www.dnd5eapi.co/api/features"
+        "category": "Fun &amp; Games",
+        "api-name": "D&amp;D 5th Edition",
+        "description": "Official 5th Edition of Dungeons &amp; Dragons",
+        "url": "https://www.dnd5eapi.co/api/features"
     },
     {
         "id": 85,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Deck of Cards",
-        "DESCRIPTION": "Simulate a deck of cards",
-        "SAMPLE URL": "https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1"
+        "category": "Fun &amp; Games",
+        "api-name": "Deck of Cards",
+        "description": "Simulate a deck of cards",
+        "url": "https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1"
     },
     {
         "id": 86,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Evil Insult Generator",
-        "DESCRIPTION": "Generate insults",
-        "SAMPLE URL": "https://evilinsult.com/generate_insult.php?lang=en&amp;type=json"
+        "category": "Fun &amp; Games",
+        "api-name": "Evil Insult Generator",
+        "description": "Generate insults",
+        "url": "https://evilinsult.com/generate_insult.php?lang=en&amp;type=json"
     },
     {
         "id": 87,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "FreeToGame",
-        "DESCRIPTION": "Free-to-play games",
-        "SAMPLE URL": "https://www.freetogame.com/api/games?platform=pc"
+        "category": "Fun &amp; Games",
+        "api-name": "FreeToGame",
+        "description": "Free-to-play games",
+        "url": "https://www.freetogame.com/api/games?platform=pc"
     },
     {
         "id": 88,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Gamerpower",
-        "DESCRIPTION": "Free games and giveaways",
-        "SAMPLE URL": "https://www.gamerpower.com/api/giveaways?platform=steam&amp;type=loot&amp;sort-by=popularity"
+        "category": "Fun &amp; Games",
+        "api-name": "Gamerpower",
+        "description": "Free games and giveaways",
+        "url": "https://www.gamerpower.com/api/giveaways?platform=steam&amp;type=loot&amp;sort-by=popularity"
     },
     {
         "id": 89,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Hyrule Compendium",
-        "DESCRIPTION": "The Legend of Zelda: BOTW",
-        "SAMPLE URL": "https://botw-compendium.herokuapp.com/api/v2/entry/white-maned_lynel"
+        "category": "Fun &amp; Games",
+        "api-name": "Hyrule Compendium",
+        "description": "The Legend of Zelda: BOTW",
+        "url": "https://botw-compendium.herokuapp.com/api/v2/entry/white-maned_lynel"
     },
     {
         "id": 90,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "icanhazdadjoke",
-        "DESCRIPTION": "Dad jokes",
-        "SAMPLE URL": "https://icanhazdadjoke.com/"
+        "category": "Fun &amp; Games",
+        "api-name": "icanhazdadjoke",
+        "description": "Dad jokes",
+        "url": "https://icanhazdadjoke.com/"
     },
     {
         "id": 91,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Imgflip",
-        "DESCRIPTION": "Popular memes",
-        "SAMPLE URL": "https://api.imgflip.com/get_memes"
+        "category": "Fun &amp; Games",
+        "api-name": "Imgflip",
+        "description": "Popular memes",
+        "url": "https://api.imgflip.com/get_memes"
     },
     {
         "id": 92,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "isEven",
-        "DESCRIPTION": "Check if a number is even",
-        "SAMPLE URL": "https://api.isevenapi.xyz/api/iseven/12/"
+        "category": "Fun &amp; Games",
+        "api-name": "isEven",
+        "description": "Check if a number is even",
+        "url": "https://api.isevenapi.xyz/api/iseven/12/"
     },
     {
         "id": 93,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "JokeAPI",
-        "DESCRIPTION": "Jokes",
-        "SAMPLE URL": "https://v2.jokeapi.dev/joke/Any?safe-mode"
+        "category": "Fun &amp; Games",
+        "api-name": "JokeAPI",
+        "description": "Jokes",
+        "url": "https://v2.jokeapi.dev/joke/Any?safe-mode"
     },
     {
         "id": 94,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "jService",
-        "DESCRIPTION": "Trivia questions from Jeopardy",
-        "SAMPLE URL": "http://jservice.io/api/random"
+        "category": "Fun &amp; Games",
+        "api-name": "jService",
+        "description": "Trivia questions from Jeopardy",
+        "url": "http://jservice.io/api/random"
     },
     {
         "id": 95,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Magic: The Gathering",
-        "DESCRIPTION": "Cards and sets from MTG",
-        "SAMPLE URL": "https://api.magicthegathering.io/v1/sets"
+        "category": "Fun &amp; Games",
+        "api-name": "Magic: The Gathering",
+        "description": "Cards and sets from MTG",
+        "url": "https://api.magicthegathering.io/v1/sets"
     },
     {
         "id": 96,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Official Joke",
-        "DESCRIPTION": "Jokes",
-        "SAMPLE URL": "https://official-joke-api.appspot.com/random_joke"
+        "category": "Fun &amp; Games",
+        "api-name": "Official Joke",
+        "description": "Jokes",
+        "url": "https://official-joke-api.appspot.com/random_joke"
     },
     {
         "id": 97,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Open Trivia DB",
-        "DESCRIPTION": "Trivia questions",
-        "SAMPLE URL": "https://opentdb.com/api.php?amount=10&amp;category=17&amp;difficulty=easy"
+        "category": "Fun &amp; Games",
+        "api-name": "Open Trivia DB",
+        "description": "Trivia questions",
+        "url": "https://opentdb.com/api.php?amount=10&amp;category=17&amp;difficulty=easy"
     },
     {
         "id": 98,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "PokéAPI",
-        "DESCRIPTION": "Pokémon data",
-        "SAMPLE URL": "https://pokeapi.co/api/v2/pokemon/ditto"
+        "category": "Fun &amp; Games",
+        "api-name": "PokéAPI",
+        "description": "Pokémon data",
+        "url": "https://pokeapi.co/api/v2/pokemon/ditto"
     },
     {
         "id": 99,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Pokémon TCG",
-        "DESCRIPTION": "Pokémon card data",
-        "SAMPLE URL": "https://api.pokemontcg.io/v2/cards/xy1-1"
+        "category": "Fun &amp; Games",
+        "api-name": "Pokémon TCG",
+        "description": "Pokémon card data",
+        "url": "https://api.pokemontcg.io/v2/cards/xy1-1"
     },
     {
         "id": 100,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "RuneScape",
-        "DESCRIPTION": "Runescape data",
-        "SAMPLE URL": "https://services.runescape.com/m=itemdb_rs/api/catalogue/items.json?category=9&amp;alpha=c&amp;page=1"
+        "category": "Fun &amp; Games",
+        "api-name": "RuneScape",
+        "description": "Runescape data",
+        "url": "https://services.runescape.com/m=itemdb_rs/api/catalogue/items.json?category=9&amp;alpha=c&amp;page=1"
     },
     {
         "id": 101,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Scryfall",
-        "DESCRIPTION": "Magic: The Gathering card data",
-        "SAMPLE URL": "https://api.scryfall.com/cards/search?order=cmc&amp;q=c:red%20pow=3"
+        "category": "Fun &amp; Games",
+        "api-name": "Scryfall",
+        "description": "Magic: The Gathering card data",
+        "url": "https://api.scryfall.com/cards/search?order=cmc&amp;q=c:red%20pow=3"
     },
     {
         "id": 102,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "TCGdex",
-        "DESCRIPTION": "Pokémon card data",
-        "SAMPLE URL": "https://api.tcgdex.net/v2/en/sets"
+        "category": "Fun &amp; Games",
+        "api-name": "TCGdex",
+        "description": "Pokémon card data",
+        "url": "https://api.tcgdex.net/v2/en/sets"
     },
     {
         "id": 103,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "XIVAPI",
-        "DESCRIPTION": "Final Fantasy XIV",
-        "SAMPLE URL": "https://xivapi.com/Action/127"
+        "category": "Fun &amp; Games",
+        "api-name": "XIVAPI",
+        "description": "Final Fantasy XIV",
+        "url": "https://xivapi.com/Action/127"
     },
     {
         "id": 104,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "xkcd",
-        "DESCRIPTION": "xkcd comics",
-        "SAMPLE URL": "http://xkcd.com/info.0.json"
+        "category": "Fun &amp; Games",
+        "api-name": "xkcd",
+        "description": "xkcd comics",
+        "url": "http://xkcd.com/info.0.json"
     },
     {
         "id": 105,
-        "CATEGORY": "Fun &amp; Games",
-        "API NAME": "Yes or No?",
-        "DESCRIPTION": "Randomly generate a yes or no image",
-        "SAMPLE URL": "https://yesno.wtf/api"
+        "category": "Fun &amp; Games",
+        "api-name": "Yes or No?",
+        "description": "Randomly generate a yes or no image",
+        "url": "https://yesno.wtf/api"
     },
     {
         "id": 106,
-        "CATEGORY": "Geo",
-        "API NAME": "Adresse",
-        "DESCRIPTION": "French addresses and geocoding",
-        "SAMPLE URL": "https://api-adresse.data.gouv.fr/search/?q=8+bd+du+port"
+        "category": "Geo",
+        "api-name": "Adresse",
+        "description": "French addresses and geocoding",
+        "url": "https://api-adresse.data.gouv.fr/search/?q=8+bd+du+port"
     },
     {
         "id": 107,
-        "CATEGORY": "Geo",
-        "API NAME": "Country.is",
-        "DESCRIPTION": "Lookup country by IP address",
-        "SAMPLE URL": "https://api.country.is/9.9.9.9"
+        "category": "Geo",
+        "api-name": "Country.is",
+        "description": "Lookup country by IP address",
+        "url": "https://api.country.is/9.9.9.9"
     },
     {
         "id": 108,
-        "CATEGORY": "Geo",
-        "API NAME": "Geocode",
-        "DESCRIPTION": "Forward/reverse geocoding",
-        "SAMPLE URL": "https://geocode.xyz/51.50354,-0.12768?geoit=json"
+        "category": "Geo",
+        "api-name": "Geocode",
+        "description": "Forward/reverse geocoding",
+        "url": "https://geocode.xyz/51.50354,-0.12768?geoit=json"
     },
     {
         "id": 109,
-        "CATEGORY": "Geo",
-        "API NAME": "GeoJS",
-        "DESCRIPTION": "Geolocation by IP address",
-        "SAMPLE URL": "https://get.geojs.io/v1/ip/geo.json"
+        "category": "Geo",
+        "api-name": "GeoJS",
+        "description": "Geolocation by IP address",
+        "url": "https://get.geojs.io/v1/ip/geo.json"
     },
     {
         "id": 110,
-        "CATEGORY": "Geo",
-        "API NAME": "geoPlugin",
-        "DESCRIPTION": "Currency conversion and geolocation data",
-        "SAMPLE URL": "http://www.geoplugin.net/php.gp"
+        "category": "Geo",
+        "api-name": "geoPlugin",
+        "description": "Currency conversion and geolocation data",
+        "url": "http://www.geoplugin.net/php.gp"
     },
     {
         "id": 111,
-        "CATEGORY": "Geo",
-        "API NAME": "GetTheData",
-        "DESCRIPTION": "UK geo coordinates conversion",
-        "SAMPLE URL": "https://api.getthedata.com/bng2latlong/529090/179645"
+        "category": "Geo",
+        "api-name": "GetTheData",
+        "description": "UK geo coordinates conversion",
+        "url": "https://api.getthedata.com/bng2latlong/529090/179645"
     },
     {
         "id": 112,
-        "CATEGORY": "Geo",
-        "API NAME": "HelloSalut",
-        "DESCRIPTION": "Translate \"hello\" by IP address",
-        "SAMPLE URL": "http://stefanbohacek.com/hellosalut/?mode=auto"
+        "category": "Geo",
+        "api-name": "HelloSalut",
+        "description": "Translate \"hello\" by IP address",
+        "url": "http://stefanbohacek.com/hellosalut/?mode=auto"
     },
     {
         "id": 113,
-        "CATEGORY": "Geo",
-        "API NAME": "Hong Kong GeoData Store",
-        "DESCRIPTION": "Hong Kong geo data",
-        "SAMPLE URL": "https://geodata.gov.hk/gs/api/v1.0.0/locationSearch?q=museums"
+        "category": "Geo",
+        "api-name": "Hong Kong GeoData Store",
+        "description": "Hong Kong geo data",
+        "url": "https://geodata.gov.hk/gs/api/v1.0.0/locationSearch?q=museums"
     },
     {
         "id": 114,
-        "CATEGORY": "Geo",
-        "API NAME": "ipapi",
-        "DESCRIPTION": "Geolocation by IP address",
-        "SAMPLE URL": "https://ipapi.co/json/"
+        "category": "Geo",
+        "api-name": "ipapi",
+        "description": "Geolocation by IP address",
+        "url": "https://ipapi.co/json/"
     },
     {
         "id": 115,
-        "CATEGORY": "Geo",
-        "API NAME": "IPGeo",
-        "DESCRIPTION": "Geolocation by IP address",
-        "SAMPLE URL": "https://api.techniknews.net/ipgeo/"
+        "category": "Geo",
+        "api-name": "IPGeo",
+        "description": "Geolocation by IP address",
+        "url": "https://api.techniknews.net/ipgeo/"
     },
     {
         "id": 116,
-        "CATEGORY": "Geo",
-        "API NAME": "Kennzeichengenerator",
-        "DESCRIPTION": "Austrian district information",
-        "SAMPLE URL": "https://www.kennzeichengenerator.com/_api.bezirk.php?p=le"
+        "category": "Geo",
+        "api-name": "Kennzeichengenerator",
+        "description": "Austrian district information",
+        "url": "https://www.kennzeichengenerator.com/_api.bezirk.php?p=le"
     },
     {
         "id": 117,
-        "CATEGORY": "Geo",
-        "API NAME": "Nominatum",
-        "DESCRIPTION": "Locations and addresses",
-        "SAMPLE URL": "https://nominatim.openstreetmap.org/search.php?city=taipei&amp;format=jsonv2"
+        "category": "Geo",
+        "api-name": "Nominatum",
+        "description": "Locations and addresses",
+        "url": "https://nominatim.openstreetmap.org/search.php?city=taipei&amp;format=jsonv2"
     },
     {
         "id": 118,
-        "CATEGORY": "Geo",
-        "API NAME": "Open Topo Data",
-        "DESCRIPTION": "Determine elevation for lat/long",
-        "SAMPLE URL": "https://api.opentopodata.org/v1/srtm90m?locations=-43.5,172.5|27.6,1.98&amp;interpolation=cubic"
+        "category": "Geo",
+        "api-name": "Open Topo Data",
+        "description": "Determine elevation for lat/long",
+        "url": "https://api.opentopodata.org/v1/srtm90m?locations=-43.5,172.5|27.6,1.98&amp;interpolation=cubic"
     },
     {
         "id": 119,
-        "CATEGORY": "Geo",
-        "API NAME": "Postcodes",
-        "DESCRIPTION": "UK geo data by postcode",
-        "SAMPLE URL": "https://api.postcodes.io/postcodes/OX49%205NU"
+        "category": "Geo",
+        "api-name": "Postcodes",
+        "description": "UK geo data by postcode",
+        "url": "https://api.postcodes.io/postcodes/OX49%205NU"
     },
     {
         "id": 120,
-        "CATEGORY": "Geo",
-        "API NAME": "ViaCEP",
-        "DESCRIPTION": "Brazil's postal address codes (CEPs)",
-        "SAMPLE URL": "https://viacep.com.br/ws/01001000/json/"
+        "category": "Geo",
+        "api-name": "ViaCEP",
+        "description": "Brazil's postal address codes (CEPs)",
+        "url": "https://viacep.com.br/ws/01001000/json/"
     },
     {
         "id": 121,
-        "CATEGORY": "Geo",
-        "API NAME": "Zippopotamus",
-        "DESCRIPTION": "Zip code information for 60 countries",
-        "SAMPLE URL": "https://api.zippopotam.us/us/90210"
+        "category": "Geo",
+        "api-name": "Zippopotamus",
+        "description": "Zip code information for 60 countries",
+        "url": "https://api.zippopotam.us/us/90210"
     },
     {
         "id": 122,
-        "CATEGORY": "Geo",
-        "API NAME": "Ziptastic",
-        "DESCRIPTION": "US geo data by zipcode",
-        "SAMPLE URL": "https://ziptasticapi.com/90210"
+        "category": "Geo",
+        "api-name": "Ziptastic",
+        "description": "US geo data by zipcode",
+        "url": "https://ziptasticapi.com/90210"
     },
     {
         "id": 123,
-        "CATEGORY": "Government",
-        "API NAME": "Banco Central Do Brasil",
-        "DESCRIPTION": "Brazil Central Bank data",
-        "SAMPLE URL": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20716/dados/ultimos/10?formato=json"
+        "category": "Government",
+        "api-name": "Banco Central Do Brasil",
+        "description": "Brazil Central Bank data",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20716/dados/ultimos/10?formato=json"
     },
     {
         "id": 124,
-        "CATEGORY": "Government",
-        "API NAME": "Belgian Open Data Initiative",
-        "DESCRIPTION": "Belgian government open data",
-        "SAMPLE URL": "https://social.brussels/rest/sector/5/organisations"
+        "category": "Government",
+        "api-name": "Belgian Open Data Initiative",
+        "description": "Belgian government open data",
+        "url": "https://social.brussels/rest/sector/5/organisations"
     },
     {
         "id": 125,
-        "CATEGORY": "Government",
-        "API NAME": "Brasil",
-        "DESCRIPTION": "Brazil public data",
-        "SAMPLE URL": "https://brasilapi.com.br/api/feriados/v1/2024"
+        "category": "Government",
+        "api-name": "Brasil",
+        "description": "Brazil public data",
+        "url": "https://brasilapi.com.br/api/feriados/v1/2024"
     },
     {
         "id": 126,
-        "CATEGORY": "Government",
-        "API NAME": "CiviX",
-        "DESCRIPTION": "Law and bylaw content of British Columbia",
-        "SAMPLE URL": "https://www.bclaws.gov.bc.ca/civix/search/complete/fullsearch?q=water&amp;s=0&amp;e=20&amp;nFrag=5&amp;lFrag=100"
+        "category": "Government",
+        "api-name": "CiviX",
+        "description": "Law and bylaw content of British Columbia",
+        "url": "https://www.bclaws.gov.bc.ca/civix/search/complete/fullsearch?q=water&amp;s=0&amp;e=20&amp;nFrag=5&amp;lFrag=100"
     },
     {
         "id": 127,
-        "CATEGORY": "Government",
-        "API NAME": "Colorado Information Marketplace",
-        "DESCRIPTION": "Colorado state open data",
-        "SAMPLE URL": "https://data.colorado.gov/resource/4ykn-tg5h.json"
+        "category": "Government",
+        "api-name": "Colorado Information Marketplace",
+        "description": "Colorado state open data",
+        "url": "https://data.colorado.gov/resource/4ykn-tg5h.json"
     },
     {
         "id": 128,
-        "CATEGORY": "Government",
-        "API NAME": "Data USA",
-        "DESCRIPTION": "US public data",
-        "SAMPLE URL": "https://datausa.io/api/data?drilldowns=Nation&amp;measures=Population"
+        "category": "Government",
+        "api-name": "Data USA",
+        "description": "US public data",
+        "url": "https://datausa.io/api/data?drilldowns=Nation&amp;measures=Population"
     },
     {
         "id": 129,
-        "CATEGORY": "Government",
-        "API NAME": "Data.gov",
-        "DESCRIPTION": "U.S. government open data",
-        "SAMPLE URL": "https://data.wa.gov/api/views/f6w7-q2d2/rows.json?accessType=DOWNLOAD"
+        "category": "Government",
+        "api-name": "Data.gov",
+        "description": "U.S. government open data",
+        "url": "https://data.wa.gov/api/views/f6w7-q2d2/rows.json?accessType=DOWNLOAD"
     },
     {
         "id": 130,
-        "CATEGORY": "Government",
-        "API NAME": "Data.gov.au",
-        "DESCRIPTION": "Australian government open data",
-        "SAMPLE URL": "https://www.data.act.gov.au/api/views/s4g9-ndv2/rows.json?accessType=DOWNLOAD"
+        "category": "Government",
+        "api-name": "Data.gov.au",
+        "description": "Australian government open data",
+        "url": "https://www.data.act.gov.au/api/views/s4g9-ndv2/rows.json?accessType=DOWNLOAD"
     },
     {
         "id": 131,
-        "CATEGORY": "Government",
-        "API NAME": "Dawum",
-        "DESCRIPTION": "German election polls",
-        "SAMPLE URL": "https://api.dawum.de/"
+        "category": "Government",
+        "api-name": "Dawum",
+        "description": "German election polls",
+        "url": "https://api.dawum.de/"
     },
     {
         "id": 132,
-        "CATEGORY": "Government",
-        "API NAME": "FBI Wanted",
-        "DESCRIPTION": "FBI Wanted data",
-        "SAMPLE URL": "https://api.fbi.gov/wanted/v1/list"
+        "category": "Government",
+        "api-name": "FBI Wanted",
+        "description": "FBI Wanted data",
+        "url": "https://api.fbi.gov/wanted/v1/list"
     },
     {
         "id": 133,
-        "CATEGORY": "Government",
-        "API NAME": "Federal Register",
-        "DESCRIPTION": "Daily journal of the US government",
-        "SAMPLE URL": "https://www.federalregister.gov/api/v1/documents/2023-05167?publication_date=2023-03-14"
+        "category": "Government",
+        "api-name": "Federal Register",
+        "description": "Daily journal of the US government",
+        "url": "https://www.federalregister.gov/api/v1/documents/2023-05167?publication_date=2023-03-14"
     },
     {
         "id": 134,
-        "CATEGORY": "Government",
-        "API NAME": "Food Standards Agency",
-        "DESCRIPTION": "UK restaurant hygiene ratings",
-        "SAMPLE URL": "https://ratings.food.gov.uk/OpenDataFiles/FHRS529en-GB.json"
+        "category": "Government",
+        "api-name": "Food Standards Agency",
+        "description": "UK restaurant hygiene ratings",
+        "url": "https://ratings.food.gov.uk/OpenDataFiles/FHRS529en-GB.json"
     },
     {
         "id": 135,
-        "CATEGORY": "Government",
-        "API NAME": "NYC Open Data",
-        "DESCRIPTION": "New York City open data",
-        "SAMPLE URL": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?unique_key=57056073"
+        "category": "Government",
+        "api-name": "NYC Open Data",
+        "description": "New York City open data",
+        "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?unique_key=57056073"
     },
     {
         "id": 136,
-        "CATEGORY": "Government",
-        "API NAME": "Open Data DC",
-        "DESCRIPTION": "Washington DC open data",
-        "SAMPLE URL": "https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_TrafficVolume_WebMercator/MapServer/171/query?where=1%3D1&amp;outFields=ROUTEID,FROMMEASURE,TOMEASURE,FROMDATE,TODATE&amp;outSR=4326&amp;f=json"
+        "category": "Government",
+        "api-name": "Open Data DC",
+        "description": "Washington DC open data",
+        "url": "https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_TrafficVolume_WebMercator/MapServer/171/query?where=1%3D1&amp;outFields=ROUTEID,FROMMEASURE,TOMEASURE,FROMDATE,TODATE&amp;outSR=4326&amp;f=json"
     },
     {
         "id": 137,
-        "CATEGORY": "Government",
-        "API NAME": "Open Government, Canada",
-        "DESCRIPTION": "Canadian government open data",
-        "SAMPLE URL": "https://donnees-data.tpsgc-pwgsc.gc.ca/br1/delaipaiement-promptpayment/delaipaiement-promptpayment.json"
+        "category": "Government",
+        "api-name": "Open Government, Canada",
+        "description": "Canadian government open data",
+        "url": "https://donnees-data.tpsgc-pwgsc.gc.ca/br1/delaipaiement-promptpayment/delaipaiement-promptpayment.json"
     },
     {
         "id": 138,
-        "CATEGORY": "Government",
-        "API NAME": "Represent Civic Information",
-        "DESCRIPTION": "Canada's elected officials and electoral districts",
-        "SAMPLE URL": "https://represent.opennorth.ca/representatives/?first_name=Jack"
+        "category": "Government",
+        "api-name": "Represent Civic Information",
+        "description": "Canada's elected officials and electoral districts",
+        "url": "https://represent.opennorth.ca/representatives/?first_name=Jack"
     },
     {
         "id": 139,
-        "CATEGORY": "Government",
-        "API NAME": "USAspending",
-        "DESCRIPTION": "U.S. federal government spending data",
-        "SAMPLE URL": "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
+        "category": "Government",
+        "api-name": "USAspending",
+        "description": "U.S. federal government spending data",
+        "url": "https://api.usaspending.gov/api/v2/references/toptier_agencies/"
     },
     {
         "id": 140,
-        "CATEGORY": "Government",
-        "API NAME": "USPTO",
-        "DESCRIPTION": "US Patent and Trademark Office",
-        "SAMPLE URL": "https://assignment-api.uspto.gov/trademark/basicSearch?query=Google&amp;filter_year=2022"
+        "category": "Government",
+        "api-name": "USPTO",
+        "description": "US Patent and Trademark Office",
+        "url": "https://assignment-api.uspto.gov/trademark/basicSearch?query=Google&amp;filter_year=2022"
     },
     {
         "id": 141,
-        "CATEGORY": "Government",
-        "API NAME": "World Bank",
-        "DESCRIPTION": "World Bank open data",
-        "SAMPLE URL": "http://api.worldbank.org/v2/region?format=json"
+        "category": "Government",
+        "api-name": "World Bank",
+        "description": "World Bank open data",
+        "url": "http://api.worldbank.org/v2/region?format=json"
     },
     {
         "id": 142,
-        "CATEGORY": "Health",
-        "API NAME": "HealthCare.gov",
-        "DESCRIPTION": "US health insurance data",
-        "SAMPLE URL": "https://www.healthcare.gov/api/index.json"
+        "category": "Health",
+        "api-name": "HealthCare.gov",
+        "description": "US health insurance data",
+        "url": "https://www.healthcare.gov/api/index.json"
     },
     {
         "id": 143,
-        "CATEGORY": "Health",
-        "API NAME": "Makeup",
-        "DESCRIPTION": "Makeup brands and product info",
-        "SAMPLE URL": "http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline"
+        "category": "Health",
+        "api-name": "Makeup",
+        "description": "Makeup brands and product info",
+        "url": "http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline"
     },
     {
         "id": 144,
-        "CATEGORY": "Health",
-        "API NAME": "NPPES",
-        "DESCRIPTION": "US health care providers",
-        "SAMPLE URL": "https://npiregistry.cms.hhs.gov/api/?version=2.1&amp;city=baltimore"
+        "category": "Health",
+        "api-name": "NPPES",
+        "description": "US health care providers",
+        "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&amp;city=baltimore"
     },
     {
         "id": 145,
-        "CATEGORY": "Health",
-        "API NAME": "Open Disease",
-        "DESCRIPTION": "Covid-19 and influenza stats",
-        "SAMPLE URL": "https://disease.sh/v3/covid-19/historical/all?lastdays=all"
+        "category": "Health",
+        "api-name": "Open Disease",
+        "description": "Covid-19 and influenza stats",
+        "url": "https://disease.sh/v3/covid-19/historical/all?lastdays=all"
     },
     {
         "id": 146,
-        "CATEGORY": "Health",
-        "API NAME": "openFDA",
-        "DESCRIPTION": "Food &amp; Drug Administration data (US)",
-        "SAMPLE URL": "https://api.fda.gov/food/enforcement.json?limit=10"
+        "category": "Health",
+        "api-name": "openFDA",
+        "description": "Food &amp; Drug Administration data (US)",
+        "url": "https://api.fda.gov/food/enforcement.json?limit=10"
     },
     {
         "id": 147,
-        "CATEGORY": "Inspiration",
-        "API NAME": "Advice Slip",
-        "DESCRIPTION": "Generate random advice",
-        "SAMPLE URL": "https://api.adviceslip.com/advice/search/love"
+        "category": "Inspiration",
+        "api-name": "Advice Slip",
+        "description": "Generate random advice",
+        "url": "https://api.adviceslip.com/advice/search/love"
     },
     {
         "id": 148,
-        "CATEGORY": "Inspiration",
-        "API NAME": "Affirmations",
-        "DESCRIPTION": "Generate affirmations",
-        "SAMPLE URL": "https://www.affirmations.dev/"
+        "category": "Inspiration",
+        "api-name": "Affirmations",
+        "description": "Generate affirmations",
+        "url": "https://www.affirmations.dev/"
     },
     {
         "id": 149,
-        "CATEGORY": "Inspiration",
-        "API NAME": "Biriyana As a Service",
-        "DESCRIPTION": "Biriyani images",
-        "SAMPLE URL": "https://biriyani.anoram.com/get"
+        "category": "Inspiration",
+        "api-name": "Biriyana As a Service",
+        "description": "Biriyani images",
+        "url": "https://biriyani.anoram.com/get"
     },
     {
         "id": 150,
-        "CATEGORY": "Inspiration",
-        "API NAME": "Dictum",
-        "DESCRIPTION": "Inspiring expressions",
-        "SAMPLE URL": "https://api.fisenko.net/v1/quotes/en?query=string&amp;offset=0&amp;limit=0"
+        "category": "Inspiration",
+        "api-name": "Dictum",
+        "description": "Inspiring expressions",
+        "url": "https://api.fisenko.net/v1/quotes/en?query=string&amp;offset=0&amp;limit=0"
     },
     {
         "id": 151,
-        "CATEGORY": "Inspiration",
-        "API NAME": "Kanye",
-        "DESCRIPTION": "Kanye quotes",
-        "SAMPLE URL": "https://api.kanye.rest/"
+        "category": "Inspiration",
+        "api-name": "Kanye",
+        "description": "Kanye quotes",
+        "url": "https://api.kanye.rest/"
     },
     {
         "id": 152,
-        "CATEGORY": "Inspiration",
-        "API NAME": "Quotable",
-        "DESCRIPTION": "Random quotes",
-        "SAMPLE URL": "https://api.quotable.io/quotes/random"
+        "category": "Inspiration",
+        "api-name": "Quotable",
+        "description": "Random quotes",
+        "url": "https://api.quotable.io/quotes/random"
     },
     {
         "id": 153,
-        "CATEGORY": "Inspiration",
-        "API NAME": "Quote Garden",
-        "DESCRIPTION": "Database of 75000 quotes",
-        "SAMPLE URL": "https://quote-garden.onrender.com/api/v3/quotes"
+        "category": "Inspiration",
+        "api-name": "Quote Garden",
+        "description": "Database of 75000 quotes",
+        "url": "https://quote-garden.onrender.com/api/v3/quotes"
     },
     {
         "id": 154,
-        "CATEGORY": "Inspiration",
-        "API NAME": "Quotes on Design",
-        "DESCRIPTION": "Quotes about design",
-        "SAMPLE URL": "https://quotesondesign.com/wp-json/wp/v2/posts/?orderby=rand"
+        "category": "Inspiration",
+        "api-name": "Quotes on Design",
+        "description": "Quotes about design",
+        "url": "https://quotesondesign.com/wp-json/wp/v2/posts/?orderby=rand"
     },
     {
         "id": 155,
-        "CATEGORY": "Inspiration",
-        "API NAME": "Stoicism Quote",
-        "DESCRIPTION": "Quotes about stoicism",
-        "SAMPLE URL": "https://api.themotivate365.com/stoic-quote"
+        "category": "Inspiration",
+        "api-name": "Stoicism Quote",
+        "description": "Quotes about stoicism",
+        "url": "https://api.themotivate365.com/stoic-quote"
     },
     {
         "id": 156,
-        "CATEGORY": "Language",
-        "API NAME": "Chinese Character Web",
-        "DESCRIPTION": "Information about Chinese characters",
-        "SAMPLE URL": "http://ccdb.hemiola.com/characters/radicals/85?count"
+        "category": "Language",
+        "api-name": "Chinese Character Web",
+        "description": "Information about Chinese characters",
+        "url": "http://ccdb.hemiola.com/characters/radicals/85?count"
     },
     {
         "id": 157,
-        "CATEGORY": "Language",
-        "API NAME": "Chinese Text Project",
-        "DESCRIPTION": "Digital library for pre-modern Chinese texts",
-        "SAMPLE URL": "https://api.ctext.org/getdictionaryheadwords"
+        "category": "Language",
+        "api-name": "Chinese Text Project",
+        "description": "Digital library for pre-modern Chinese texts",
+        "url": "https://api.ctext.org/getdictionaryheadwords"
     },
     {
         "id": 158,
-        "CATEGORY": "Language",
-        "API NAME": "Free Dictionary",
-        "DESCRIPTION": "Word definitions and phonetics",
-        "SAMPLE URL": "https://api.dictionaryapi.dev/api/v2/entries/en/digital"
+        "category": "Language",
+        "api-name": "Free Dictionary",
+        "description": "Word definitions and phonetics",
+        "url": "https://api.dictionaryapi.dev/api/v2/entries/en/digital"
     },
     {
         "id": 159,
-        "CATEGORY": "Language",
-        "API NAME": "PurgoMalum",
-        "DESCRIPTION": "Check content for profanity",
-        "SAMPLE URL": "https://www.purgomalum.com/service/json?text=this%20is%20some%20test%20input"
+        "category": "Language",
+        "api-name": "PurgoMalum",
+        "description": "Check content for profanity",
+        "url": "https://www.purgomalum.com/service/json?text=this%20is%20some%20test%20input"
     },
     {
         "id": 160,
-        "CATEGORY": "Music",
-        "API NAME": "Binary Jazz",
-        "DESCRIPTION": "Fetch a random genre",
-        "SAMPLE URL": "https://binaryjazz.us/wp-json/genrenator/v1/genre/5"
+        "category": "Music",
+        "api-name": "Binary Jazz",
+        "description": "Fetch a random genre",
+        "url": "https://binaryjazz.us/wp-json/genrenator/v1/genre/5"
     },
     {
         "id": 161,
-        "CATEGORY": "Music",
-        "API NAME": "iTunes Search",
-        "DESCRIPTION": "iTunes content",
-        "SAMPLE URL": "https://itunes.apple.com/search?term=radiohead"
+        "category": "Music",
+        "api-name": "iTunes Search",
+        "description": "iTunes content",
+        "url": "https://itunes.apple.com/search?term=radiohead"
     },
     {
         "id": 162,
-        "CATEGORY": "Music",
-        "API NAME": "MusicBrainz",
-        "DESCRIPTION": "Music data",
-        "SAMPLE URL": "http://musicbrainz.org/ws/2/artist/5b11f4ce-a62d-471e-81fc-a69a8278c7da?fmt=json"
+        "category": "Music",
+        "api-name": "MusicBrainz",
+        "description": "Music data",
+        "url": "http://musicbrainz.org/ws/2/artist/5b11f4ce-a62d-471e-81fc-a69a8278c7da?fmt=json"
     },
     {
         "id": 163,
-        "CATEGORY": "Music",
-        "API NAME": "Openwhyd",
-        "DESCRIPTION": "Playlists from various streaming platforms",
-        "SAMPLE URL": "https://openwhyd.org/hot/electro?format=json"
+        "category": "Music",
+        "api-name": "Openwhyd",
+        "description": "Playlists from various streaming platforms",
+        "url": "https://openwhyd.org/hot/electro?format=json"
     },
     {
         "id": 164,
-        "CATEGORY": "Open Data",
-        "API NAME": "Archive.org",
-        "DESCRIPTION": "Large public digital archive",
-        "SAMPLE URL": "https://archive.org/metadata/TheAdventuresOfTomSawyer_201303"
+        "category": "Open Data",
+        "api-name": "Archive.org",
+        "description": "Large public digital archive",
+        "url": "https://archive.org/metadata/TheAdventuresOfTomSawyer_201303"
     },
     {
         "id": 165,
-        "CATEGORY": "Open Data",
-        "API NAME": "Carbon Intensity",
-        "DESCRIPTION": "Carbon intensity of the electricity system in Great Britain",
-        "SAMPLE URL": "https://api.carbonintensity.org.uk/intensity/date"
+        "category": "Open Data",
+        "api-name": "Carbon Intensity",
+        "description": "Carbon intensity of the electricity system in Great Britain",
+        "url": "https://api.carbonintensity.org.uk/intensity/date"
     },
     {
         "id": 166,
-        "CATEGORY": "Open Data",
-        "API NAME": "Data.Police.UK",
-        "DESCRIPTION": "UK crime &amp; police data",
-        "SAMPLE URL": "https://data.police.uk/api/crimes-street/all-crime?lat=52.629729&amp;lng=-1.131592&amp;date=2023-01"
+        "category": "Open Data",
+        "api-name": "Data.Police.UK",
+        "description": "UK crime &amp; police data",
+        "url": "https://data.police.uk/api/crimes-street/all-crime?lat=52.629729&amp;lng=-1.131592&amp;date=2023-01"
     },
     {
         "id": 167,
-        "CATEGORY": "Open Data",
-        "API NAME": "House Stock Watcher",
-        "DESCRIPTION": "US Congress members' stock transactions",
-        "SAMPLE URL": "https://house-stock-watcher-data.s3-us-west-2.amazonaws.com/data/all_transactions.json"
+        "category": "Open Data",
+        "api-name": "House Stock Watcher",
+        "description": "US Congress members' stock transactions",
+        "url": "https://house-stock-watcher-data.s3-us-west-2.amazonaws.com/data/all_transactions.json"
     },
     {
         "id": 168,
-        "CATEGORY": "Open Data",
-        "API NAME": "Open Library",
-        "DESCRIPTION": "Information about books",
-        "SAMPLE URL": "http://openlibrary.org/api/volumes/brief/isbn/9780525440987.json"
+        "category": "Open Data",
+        "api-name": "Open Library",
+        "description": "Information about books",
+        "url": "http://openlibrary.org/api/volumes/brief/isbn/9780525440987.json"
     },
     {
         "id": 169,
-        "CATEGORY": "Open Data",
-        "API NAME": "PM2.5",
-        "DESCRIPTION": "PM2.5 environmental data monitoring",
-        "SAMPLE URL": "https://pm25.lass-net.org/API-1.0.0/project/airbox/latest/"
+        "category": "Open Data",
+        "api-name": "PM2.5",
+        "description": "PM2.5 environmental data monitoring",
+        "url": "https://pm25.lass-net.org/API-1.0.0/project/airbox/latest/"
     },
     {
         "id": 170,
-        "CATEGORY": "Open Data",
-        "API NAME": "Teleport",
-        "DESCRIPTION": "Location and quality of life data",
-        "SAMPLE URL": "https://api.teleport.org/api/urban_areas/teleport%3A9q8yy/scores/"
+        "category": "Open Data",
+        "api-name": "Teleport",
+        "description": "Location and quality of life data",
+        "url": "https://api.teleport.org/api/urban_areas/teleport%3A9q8yy/scores/"
     },
     {
         "id": 171,
-        "CATEGORY": "Open Data",
-        "API NAME": "Universities List",
-        "DESCRIPTION": "Universities",
-        "SAMPLE URL": "http://universities.hipolabs.com/search?country=United+Kingdom"
+        "category": "Open Data",
+        "api-name": "Universities List",
+        "description": "Universities",
+        "url": "http://universities.hipolabs.com/search?country=United+Kingdom"
     },
     {
         "id": 172,
-        "CATEGORY": "Open Data",
-        "API NAME": "Vehicles",
-        "DESCRIPTION": "National Highway Traffic Safety Administration's catalog of vehicles specs",
-        "SAMPLE URL": "https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvaluesextended/5UXWX7C5*BA?format=json&amp;modelyear=2011"
+        "category": "Open Data",
+        "api-name": "Vehicles",
+        "description": "National Highway Traffic Safety Administration's catalog of vehicles specs",
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvaluesextended/5UXWX7C5*BA?format=json&amp;modelyear=2011"
     },
     {
         "id": 173,
-        "CATEGORY": "Open Data",
-        "API NAME": "Wayback Machine",
-        "DESCRIPTION": "Internet archive availability",
-        "SAMPLE URL": "https://archive.org/wayback/available?url=google.com"
+        "category": "Open Data",
+        "api-name": "Wayback Machine",
+        "description": "Internet archive availability",
+        "url": "https://archive.org/wayback/available?url=google.com"
     },
     {
         "id": 174,
-        "CATEGORY": "Open Data",
-        "API NAME": "Wikipedia",
-        "DESCRIPTION": "Pageview stats",
-        "SAMPLE URL": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/all-agents/Tiger_King/daily/20210901/20210930"
+        "category": "Open Data",
+        "api-name": "Wikipedia",
+        "description": "Pageview stats",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/all-agents/Tiger_King/daily/20210901/20210930"
     },
     {
         "id": 175,
-        "CATEGORY": "Science",
-        "API NAME": "Arcsecond",
-        "DESCRIPTION": "Worldwide astronomy data",
-        "SAMPLE URL": "https://api.arcsecond.io/activities/"
+        "category": "Science",
+        "api-name": "Arcsecond",
+        "description": "Worldwide astronomy data",
+        "url": "https://api.arcsecond.io/activities/"
     },
     {
         "id": 176,
-        "CATEGORY": "Science",
-        "API NAME": "arXiv",
-        "DESCRIPTION": "Research-sharing platform",
-        "SAMPLE URL": "http://export.arxiv.org/api/query?search_query=all:electron"
+        "category": "Science",
+        "api-name": "arXiv",
+        "description": "Research-sharing platform",
+        "url": "http://export.arxiv.org/api/query?search_query=all:electron"
     },
     {
         "id": 177,
-        "CATEGORY": "Science",
-        "API NAME": "Asterank",
-        "DESCRIPTION": "Asteroids, minor planets, and other objects",
-        "SAMPLE URL": "http://www.asterank.com/api/skymorph/search?target=J99TS7A"
+        "category": "Science",
+        "api-name": "Asterank",
+        "description": "Asteroids, minor planets, and other objects",
+        "url": "http://www.asterank.com/api/skymorph/search?target=J99TS7A"
     },
     {
         "id": 178,
-        "CATEGORY": "Science",
-        "API NAME": "Cat-Facts",
-        "DESCRIPTION": "Daily cat facts",
-        "SAMPLE URL": "https://cat-fact.herokuapp.com/facts/random"
+        "category": "Science",
+        "api-name": "Cat-Facts",
+        "description": "Daily cat facts",
+        "url": "https://cat-fact.herokuapp.com/facts/random"
     },
     {
         "id": 179,
-        "CATEGORY": "Science",
-        "API NAME": "CelesTrak",
-        "DESCRIPTION": "General perturbations orbital data",
-        "SAMPLE URL": "https://celestrak.org/NORAD/elements/gp.php?INTDES=2023-015&amp;FORMAT=JSON-PRETTY"
+        "category": "Science",
+        "api-name": "CelesTrak",
+        "description": "General perturbations orbital data",
+        "url": "https://celestrak.org/NORAD/elements/gp.php?INTDES=2023-015&amp;FORMAT=JSON-PRETTY"
     },
     {
         "id": 180,
-        "CATEGORY": "Science",
-        "API NAME": "GBIF",
-        "DESCRIPTION": "Global Biodiversity Information Facility",
-        "SAMPLE URL": "https://api.gbif.org/v1/occurrence/search?year=1800,1899"
+        "category": "Science",
+        "api-name": "GBIF",
+        "description": "Global Biodiversity Information Facility",
+        "url": "https://api.gbif.org/v1/occurrence/search?year=1800,1899"
     },
     {
         "id": 181,
-        "CATEGORY": "Science",
-        "API NAME": "iDigBio",
-        "DESCRIPTION": "Digitized data for millions of biological specimens",
-        "SAMPLE URL": "https://search.idigbio.org/v2/search/records/?rq={\"data.dwc:dynamicProperties\":\"nsf_tcn\"}&amp;limit=1"
+        "category": "Science",
+        "api-name": "iDigBio",
+        "description": "Digitized data for millions of biological specimens",
+        "url": "https://search.idigbio.org/v2/search/records/?rq={\"data.dwc:dynamicProperties\":\"nsf_tcn\"}&amp;limit=1"
     },
     {
         "id": 182,
-        "CATEGORY": "Science",
-        "API NAME": "Inspirehep",
-        "DESCRIPTION": "Scholarly information about high energy physics",
-        "SAMPLE URL": "https://inspirehep.net/api/literature/451647"
+        "category": "Science",
+        "api-name": "Inspirehep",
+        "description": "Scholarly information about high energy physics",
+        "url": "https://inspirehep.net/api/literature/451647"
     },
     {
         "id": 183,
-        "CATEGORY": "Science",
-        "API NAME": "ITIS",
-        "DESCRIPTION": "Integrated Taxonomic Information System",
-        "SAMPLE URL": "https://www.itis.gov/ITISWebService/services/ITISService/searchByCommonName?srchKey=ferret-badger"
+        "category": "Science",
+        "api-name": "ITIS",
+        "description": "Integrated Taxonomic Information System",
+        "url": "https://www.itis.gov/ITISWebService/services/ITISService/searchByCommonName?srchKey=ferret-badger"
     },
     {
         "id": 184,
-        "CATEGORY": "Science",
-        "API NAME": "NASA",
-        "DESCRIPTION": "National Aeronautics and Space Administration",
-        "SAMPLE URL": "https://api.nasa.gov/neo/rest/v1/neo/browse?api_key=DEMO_KEY"
+        "category": "Science",
+        "api-name": "NASA",
+        "description": "National Aeronautics and Space Administration",
+        "url": "https://api.nasa.gov/neo/rest/v1/neo/browse?api_key=DEMO_KEY"
     },
     {
         "id": 185,
-        "CATEGORY": "Science",
-        "API NAME": "Newton",
-        "DESCRIPTION": "Advanced math",
-        "SAMPLE URL": "https://newton.now.sh/api/v2/factor/x^2-1"
+        "category": "Science",
+        "api-name": "Newton",
+        "description": "Advanced math",
+        "url": "https://newton.now.sh/api/v2/factor/x^2-1"
     },
     {
         "id": 186,
-        "CATEGORY": "Science",
-        "API NAME": "Numbers",
-        "DESCRIPTION": "Facts about numbers",
-        "SAMPLE URL": "http://numbersapi.com/random/math"
+        "category": "Science",
+        "api-name": "Numbers",
+        "description": "Facts about numbers",
+        "url": "http://numbersapi.com/random/math"
     },
     {
         "id": 187,
-        "CATEGORY": "Science",
-        "API NAME": "Open Notify",
-        "DESCRIPTION": "ISS location and people in space",
-        "SAMPLE URL": "http://api.open-notify.org/astros.json"
+        "category": "Science",
+        "api-name": "Open Notify",
+        "description": "ISS location and people in space",
+        "url": "http://api.open-notify.org/astros.json"
     },
     {
         "id": 188,
-        "CATEGORY": "Science",
-        "API NAME": "Spaceflight News",
-        "DESCRIPTION": "Spaceflight related news",
-        "SAMPLE URL": "https://api.spaceflightnewsapi.net/v3/articles"
+        "category": "Science",
+        "api-name": "Spaceflight News",
+        "description": "Spaceflight related news",
+        "url": "https://api.spaceflightnewsapi.net/v3/articles"
     },
     {
         "id": 189,
-        "CATEGORY": "Science",
-        "API NAME": "SpaceX",
-        "DESCRIPTION": "Launch and rocket data",
-        "SAMPLE URL": "https://api.spacexdata.com/v5/launches/latest"
+        "category": "Science",
+        "api-name": "SpaceX",
+        "description": "Launch and rocket data",
+        "url": "https://api.spacexdata.com/v5/launches/latest"
     },
     {
         "id": 190,
-        "CATEGORY": "Science",
-        "API NAME": "SunriseSunset",
-        "DESCRIPTION": "Sunrise and sunset times",
-        "SAMPLE URL": "https://api.sunrisesunset.io/json?lat=38.907192&amp;lng=-77.036873&amp;timezone=UTC&amp;date=today"
+        "category": "Science",
+        "api-name": "SunriseSunset",
+        "description": "Sunrise and sunset times",
+        "url": "https://api.sunrisesunset.io/json?lat=38.907192&amp;lng=-77.036873&amp;timezone=UTC&amp;date=today"
     },
     {
         "id": 191,
-        "CATEGORY": "Science",
-        "API NAME": "TheSpaceDevs",
-        "DESCRIPTION": "Rocket launches, space events and crewed spaceflight",
-        "SAMPLE URL": "https://ll.thespacedevs.com/2.2.0/agencies/?limit=10"
+        "category": "Science",
+        "api-name": "TheSpaceDevs",
+        "description": "Rocket launches, space events and crewed spaceflight",
+        "url": "https://ll.thespacedevs.com/2.2.0/agencies/?limit=10"
     },
     {
         "id": 192,
-        "CATEGORY": "Science",
-        "API NAME": "USGS Earthquake Catalog",
-        "DESCRIPTION": "Latest earthquakes",
-        "SAMPLE URL": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&amp;starttime=2023-03-01&amp;endtime=2023-03-02&amp;minmagnitude=5"
+        "category": "Science",
+        "api-name": "USGS Earthquake Catalog",
+        "description": "Latest earthquakes",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&amp;starttime=2023-03-01&amp;endtime=2023-03-02&amp;minmagnitude=5"
     },
     {
         "id": 193,
-        "CATEGORY": "Sports",
-        "API NAME": "Balldontlie",
-        "DESCRIPTION": "NBA players, teams, games, stats",
-        "SAMPLE URL": "https://www.balldontlie.io/api/v1/teams"
+        "category": "Sports",
+        "api-name": "Balldontlie",
+        "description": "NBA players, teams, games, stats",
+        "url": "https://www.balldontlie.io/api/v1/teams"
     },
     {
         "id": 194,
-        "CATEGORY": "Sports",
-        "API NAME": "CityBikes",
-        "DESCRIPTION": "Bike sharing networks",
-        "SAMPLE URL": "http://api.citybik.es/v2/networks"
+        "category": "Sports",
+        "api-name": "CityBikes",
+        "description": "Bike sharing networks",
+        "url": "http://api.citybik.es/v2/networks"
     },
     {
         "id": 195,
-        "CATEGORY": "Sports",
-        "API NAME": "Ergast F1",
-        "DESCRIPTION": "Motor racing data",
-        "SAMPLE URL": "http://ergast.com/api/f1/drivers.json"
+        "category": "Sports",
+        "api-name": "Ergast F1",
+        "description": "Motor racing data",
+        "url": "http://ergast.com/api/f1/drivers.json"
     },
     {
         "id": 196,
-        "CATEGORY": "Sports",
-        "API NAME": "Football-Data",
-        "DESCRIPTION": "Football (soccer) competitions and data",
-        "SAMPLE URL": "http://api.football-data.org/v4/competitions/"
+        "category": "Sports",
+        "api-name": "Football-Data",
+        "description": "Football (soccer) competitions and data",
+        "url": "http://api.football-data.org/v4/competitions/"
     },
     {
         "id": 197,
-        "CATEGORY": "Sports",
-        "API NAME": "nhlapi",
-        "DESCRIPTION": "NHL data",
-        "SAMPLE URL": "https://statsapi.web.nhl.com/api/v1/teams"
+        "category": "Sports",
+        "api-name": "nhlapi",
+        "description": "NHL data",
+        "url": "https://statsapi.web.nhl.com/api/v1/teams"
     },
     {
         "id": 198,
-        "CATEGORY": "Test Data",
-        "API NAME": "Bacon Ipsum",
-        "DESCRIPTION": "Generate fake data for testing",
-        "SAMPLE URL": "https://baconipsum.com/api/?type=meat-and-filler"
+        "category": "Test Data",
+        "api-name": "Bacon Ipsum",
+        "description": "Generate fake data for testing",
+        "url": "https://baconipsum.com/api/?type=meat-and-filler"
     },
     {
         "id": 199,
-        "CATEGORY": "Test Data",
-        "API NAME": "Ciprand",
-        "DESCRIPTION": "Generate random strings",
-        "SAMPLE URL": "https://ciprand.p3p.repl.co/api?len=20&amp;count=10"
+        "category": "Test Data",
+        "api-name": "Ciprand",
+        "description": "Generate random strings",
+        "url": "https://ciprand.p3p.repl.co/api?len=20&amp;count=10"
     },
     {
         "id": 200,
-        "CATEGORY": "Test Data",
-        "API NAME": "Faker",
-        "DESCRIPTION": "Generate fake data",
-        "SAMPLE URL": "https://fakerapi.it/api/v1/credit_cards?_quantity=2"
+        "category": "Test Data",
+        "api-name": "Faker",
+        "description": "Generate fake data",
+        "url": "https://fakerapi.it/api/v1/credit_cards?_quantity=2"
     },
     {
         "id": 201,
-        "CATEGORY": "Test Data",
-        "API NAME": "JSONPlaceholder",
-        "DESCRIPTION": "Fake REST API for testing",
-        "SAMPLE URL": "https://jsonplaceholder.typicode.com/posts/1"
+        "category": "Test Data",
+        "api-name": "JSONPlaceholder",
+        "description": "Fake REST API for testing",
+        "url": "https://jsonplaceholder.typicode.com/posts/1"
     },
     {
         "id": 202,
-        "CATEGORY": "Test Data",
-        "API NAME": "Loripsum",
-        "DESCRIPTION": "Generate fake placeholder text",
-        "SAMPLE URL": "https://loripsum.net/api/10/short/headers"
+        "category": "Test Data",
+        "api-name": "Loripsum",
+        "description": "Generate fake placeholder text",
+        "url": "https://loripsum.net/api/10/short/headers"
     },
     {
         "id": 203,
-        "CATEGORY": "Test Data",
-        "API NAME": "RandomUser",
-        "DESCRIPTION": "Fake user data generator",
-        "SAMPLE URL": "https://randomuser.me/api/"
+        "category": "Test Data",
+        "api-name": "RandomUser",
+        "description": "Fake user data generator",
+        "url": "https://randomuser.me/api/"
     },
     {
         "id": 204,
-        "CATEGORY": "Test Data",
-        "API NAME": "Reqres",
-        "DESCRIPTION": "Test against a real API",
-        "SAMPLE URL": "https://reqres.in/api/users?page=1"
+        "category": "Test Data",
+        "api-name": "Reqres",
+        "description": "Test against a real API",
+        "url": "https://reqres.in/api/users?page=1"
     },
     {
         "id": 205,
-        "CATEGORY": "Test Data",
-        "API NAME": "REST",
-        "DESCRIPTION": "Rest API for testing",
-        "SAMPLE URL": "https://api.restful-api.dev/objects"
+        "category": "Test Data",
+        "api-name": "REST",
+        "description": "Rest API for testing",
+        "url": "https://api.restful-api.dev/objects"
     },
     {
         "id": 206,
-        "CATEGORY": "Test Data",
-        "API NAME": "UUID Generator",
-        "DESCRIPTION": "Generate UUIDs and GUIDs",
-        "SAMPLE URL": "https://www.uuidtools.com/api/generate/v1/count/3"
+        "category": "Test Data",
+        "api-name": "UUID Generator",
+        "description": "Generate UUIDs and GUIDs",
+        "url": "https://www.uuidtools.com/api/generate/v1/count/3"
     },
     {
         "id": 207,
-        "CATEGORY": "Weather",
-        "API NAME": "7Timer!",
-        "DESCRIPTION": "Weather forecasts for astronomy",
-        "SAMPLE URL": "http://www.7timer.info/bin/api.pl?lon=113.17&amp;lat=23.09&amp;product=astro&amp;output=json"
+        "category": "Weather",
+        "api-name": "7Timer!",
+        "description": "Weather forecasts for astronomy",
+        "url": "http://www.7timer.info/bin/api.pl?lon=113.17&amp;lat=23.09&amp;product=astro&amp;output=json"
     },
     {
         "id": 208,
-        "CATEGORY": "Weather",
-        "API NAME": "Aviation Weather Center",
-        "DESCRIPTION": "Aviation Digital Data Service (ADDS) data",
-        "SAMPLE URL": "https://www.aviationweather.gov/adds/dataserver_current/httpparam?datasource=metars&amp;requestType=retrieve&amp;format=xml&amp;mostRecentForEachStation=constraint&amp;hoursBeforeNow=1.25&amp;stationString=KDE"
+        "category": "Weather",
+        "api-name": "Aviation Weather Center",
+        "description": "Aviation Digital Data Service (ADDS) data",
+        "url": "https://www.aviationweather.gov/adds/dataserver_current/httpparam?datasource=metars&amp;requestType=retrieve&amp;format=xml&amp;mostRecentForEachStation=constraint&amp;hoursBeforeNow=1.25&amp;stationString=KDE"
     },
     {
         "id": 209,
-        "CATEGORY": "Weather",
-        "API NAME": "openSenseMap",
-        "DESCRIPTION": "Personal senseBox (weather station) data",
-        "SAMPLE URL": "https://api.opensensemap.org/boxes?model=homeWifi"
+        "category": "Weather",
+        "api-name": "openSenseMap",
+        "description": "Personal senseBox (weather station) data",
+        "url": "https://api.opensensemap.org/boxes?model=homeWifi"
     },
     {
         "id": 210,
-        "CATEGORY": "Weather",
-        "API NAME": "SG Weather",
-        "DESCRIPTION": "Realtime weather readings for Singapore",
-        "SAMPLE URL": "https://api.data.gov.sg/v1/environment/air-temperature"
+        "category": "Weather",
+        "api-name": "SG Weather",
+        "description": "Realtime weather readings for Singapore",
+        "url": "https://api.data.gov.sg/v1/environment/air-temperature"
     },
     {
         "id": 211,
-        "CATEGORY": "Weather",
-        "API NAME": "wttr",
-        "DESCRIPTION": "Console-oriented weather forecast service",
-        "SAMPLE URL": "wttr.in/London?format=3"
+        "category": "Weather",
+        "api-name": "wttr",
+        "description": "Console-oriented weather forecast service",
+        "url": "wttr.in/London?format=3"
     }
 ]
