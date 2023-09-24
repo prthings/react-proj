@@ -22,7 +22,7 @@ a {
   text-decoration: inherit;
 }
 a:hover {
-  color: #41c49c;
+  color: #ffffff;
 }
 
 body {
@@ -57,7 +57,7 @@ button {
 }
 button:hover {
   border-color: #139c48;
-  background-color:#f9efef;
+  background-color:#14aa96;
 }
 button:focus,
 button:focus-visible {
