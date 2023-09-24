@@ -235,8 +235,8 @@ text-align: center;
   box-shadow: 3px 3px 10px 3px #dddddd;
 }
 
-/* Mobile Responsive */
-@media (prefers-color-scheme: light) {
+/* Auto detect dark or light */
+/* @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
     background-color: #ffffff;
@@ -247,7 +247,9 @@ text-align: center;
   button {
     background-color: #f9f9f9;
   }
-}
+} */
+
+/* Mobile Responsive */
 @media screen and (max-width: 700px){
   .menu{
     display: none;
