@@ -2,6 +2,7 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  scroll-behavior: smooth;
 
   color-scheme: light dark;
   color: rgba(3, 3, 3, 0.87);
@@ -202,6 +203,39 @@ text-align: center;
 .quote{
   margin: 20px;
   text-align: center;
+}
+.cards-link{
+  text-decoration: none;
+}
+.apidata{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 400px;
+  height: 400px;
+  background-color:#afbfa4;
+  border-radius: 15px;
+  text-align: center;
+  margin: 10px;
+  padding: 10px
+  -webkit-box-shadow: 3px 3px 10px 3px #dddddd;
+  -moz-box-shadow: 3px 3px 10px 3px #dddddd;
+  box-shadow: 3px 3px 10px 3px #dddddd;
+}
+.apidata:hover{
+  color: #f9f9f9;
+  background-color:#139c48;
+  border-radius: 15px;
+  text-align: center;
+  margin: 10px;
+  padding: 10px
+  -webkit-box-shadow: 3px 3px 10px 3px #dddddd;
+  -moz-box-shadow: 3px 3px 10px 3px #dddddd;
+  box-shadow: 3px 3px 10px 3px #dddddd;
+}
+.apidata>p>a:hover{
+  color: #ffffff;
 }
 
 /* Mobile Responsive */

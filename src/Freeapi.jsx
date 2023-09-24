@@ -3,16 +3,21 @@ import data from './data/api.json'
 
 function Freeapi() {
     return (
+      <div>
+          <p>Find free public APIs for your projects and use them without any cost! Our comprehensive platform offers a wide range of APIs, allowing you to seamlessly integrate the functionalities you need. Don't miss out on our free API offerings and unlock endless possibilities for your development needs. Start exploring now! List of Free Public Api&apos;s to use for your projects here are some free apis. </p>
         <div className='main'>
             {data.map(item => (
-               <div key={item.id} className='box'>
+              <a key={item.id} href={item.url} target='_blank' rel="noreferrer" className='cards-link'>
+               <div className='apidata'>
                 <h2>{item.id}. <span>{item.name}</span></h2>
                 <h3>Category: {item.category}</h3>
                 <h5>{item.description}</h5>
                  <p><a href={item.url} target='_blank' rel="noreferrer">{item.name}</a></p>
                </div>
+               </a>
             ))}
         </div>
+      </div>
       );
 }
 
