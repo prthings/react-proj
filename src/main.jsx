@@ -10,7 +10,7 @@ import Nav from './Nav'
 import Counter1 from './Counter1'
 import Quotes from './Quotes.jsx'
 import Mobile from './Mobile.jsx'
-import Mobile from './Freeapi.jsx'
+import Freeapi from './Freeapi.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -24,7 +24,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             <Route path='/fetch' element={<Fetch/>} />
             <Route path='/quote' element={<Quotes/>} />
             <Route path='/pass' element={<Mobile/>} />
-<Route path='/freeapi' element={<Freeapi/>} />
+            <Route path='/freeapi' element={<Freeapi/>} />
         </Routes>
     </Router>
   </React.StrictMode>,

@@ -6,10 +6,10 @@ function Freeapi() {
         <div className='main'>
             {data.map(item => (
                <div key={item.id} className='box'>
-                <h4>{item.id}</h4>
-                <h3>{item.category}</h3>
-                <h4>{item.description}</h4>
-                 <p><a href={item.url} target="_blank">{item.api-name}</a></p>
+                <h2>{item.id}. <span>{item.name}</span></h2>
+                <h3>Category: {item.category}</h3>
+                <h5>{item.description}</h5>
+                 <p><a href={item.url} target='_blank' rel="noreferrer">{item.name}</a></p>
                </div>
             ))}
         </div>
