@@ -14,7 +14,7 @@ function Freeapi() {
                 <h3>Category: {item.category}</h3>
                 <h5>{item.description}</h5>
                 <img src={`https://api.dicebear.com/7.x/initials/svg?seed=${item.name}&radius=25&randomizeIds=true&fontFamily=sans-serif,Trebuchet%20MS,Tahoma,Times%20New%20Roman,Verdana&fontSize=46&fontWeight=500`} alt={item.name} width={60} />
-                 <p><a href={item.url} target='_blank' rel="noreferrer">{item.name}</a></p>
+                 <p><a href={item.url} target='_blank' rel="noreferrer"><button>{item.name}</button></a></p>
                </div>
                </a>
             ))}

@@ -234,9 +234,6 @@ text-align: center;
   -moz-box-shadow: 3px 3px 10px 3px #dddddd;
   box-shadow: 3px 3px 10px 3px #dddddd;
 }
-.apidata>p>a:hover{
-  color: #ffffff;
-}
 
 /* Mobile Responsive */
 @media (prefers-color-scheme: light) {
