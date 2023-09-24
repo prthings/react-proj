@@ -15,98 +15,98 @@
     },
     {
         "id": 3,
-        "category": "Art &amp; Images",
+        "category": "Art & Images",
         "name": "Art Institute of Chicago",
         "description": "Artwork from the museum",
         "url": "https://api.artic.edu/api/v1/artworks/search?q=cats"
     },
     {
         "id": 4,
-        "category": "Art &amp; Images",
+        "category": "Art & Images",
         "name": "COLOURlovers",
         "description": "Color trends",
         "url": "https://www.colourlovers.com/api/colors/new?format=json"
     },
     {
         "id": 5,
-        "category": "Art &amp; Images",
+        "category": "Art & Images",
         "name": "DiceBear",
         "description": "Generate random SVG avatars",
         "url": "https://api.dicebear.com/6.x/pixel-art/svg"
     },
     {
         "id": 6,
-        "category": "Art &amp; Images",
+        "category": "Art & Images",
         "name": "Dogs",
         "description": "Random dog images",
         "url": "https://dog.ceo/api/breeds/image/random"
     },
     {
         "id": 7,
-        "category": "Art &amp; Images",
+        "category": "Art & Images",
         "name": "HTTP Cats",
         "description": "Cat images for HTTP status codes",
         "url": "https://http.cat/401"
     },
     {
         "id": 8,
-        "category": "Art &amp; Images",
+        "category": "Art & Images",
         "name": "Metropolitan Museum of Art",
         "description": "Artwork from the museum",
         "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/100"
     },
     {
         "id": 9,
-        "category": "Art &amp; Images",
+        "category": "Art & Images",
         "name": "PHP-Noise",
         "description": "Noise background image generator",
-        "url": "https://php-noise.com/noise.php?hex=FFFFFF&amp;json"
+        "url": "https://php-noise.com/noise.php?hex=FFFFFF&json"
     },
     {
         "id": 10,
-        "category": "Art &amp; Images",
+        "category": "Art & Images",
         "name": "Placebear",
         "description": "Pictures of bears for use as placeholders",
         "url": "https://placebear.com/200/300"
     },
     {
         "id": 11,
-        "category": "Art &amp; Images",
+        "category": "Art & Images",
         "name": "Placekitten",
         "description": "Placeholder kitten images",
         "url": "http://placekitten.com/200/300"
     },
     {
         "id": 12,
-        "category": "Art &amp; Images",
+        "category": "Art & Images",
         "name": "Random Dog",
         "description": "Random dog images",
         "url": "https://random.dog/woof.json"
     },
     {
         "id": 13,
-        "category": "Art &amp; Images",
+        "category": "Art & Images",
         "name": "RandomFox",
         "description": "Random pictures of foxes",
         "url": "https://randomfox.ca/floof/"
     },
     {
         "id": 14,
-        "category": "Art &amp; Images",
+        "category": "Art & Images",
         "name": "RoboHash",
         "description": "Generate unique images from text",
         "url": "https://robohash.org/onerobot.png"
     },
     {
         "id": 15,
-        "category": "Art &amp; Images",
+        "category": "Art & Images",
         "name": "Shibe",
         "description": "Random pictures of Shiba Inu dogs",
         "url": "https://shibe.online/api/shibes?count=10"
     },
     {
         "id": 16,
-        "category": "Art &amp; Images",
+        "category": "Art & Images",
         "name": "Vadivelu Status Codes",
         "description": "HTTP Codes with images",
         "url": "https://vadivelu.anoram.com/gif/200"
@@ -179,14 +179,14 @@
         "category": "Content",
         "name": "Mediawiki",
         "description": "Wikipedia page content and revisions",
-        "url": "https://en.wikipedia.org/w/api.php?action=query&amp;prop=revisions&amp;titles=Pet_door&amp;rvprop=content&amp;format=json"
+        "url": "https://en.wikipedia.org/w/api.php?action=query&prop=revisions&titles=Pet_door&rvprop=content&format=json"
     },
     {
         "id": 27,
         "category": "Content",
         "name": "Reddit",
         "description": "Public content from Reddit",
-        "url": "https://www.reddit.com/r/Wallstreetbets/top.json?limit=10&amp;t=year"
+        "url": "https://www.reddit.com/r/Wallstreetbets/top.json?limit=10&t=year"
     },
     {
         "id": 28,
@@ -221,144 +221,144 @@
         "category": "Content",
         "name": "WordPress",
         "description": "Posts from any public WordPress site",
-        "url": "https://techcrunch.com/wp-json/wp/v2/posts?per_page=100&amp;context=embed"
+        "url": "https://techcrunch.com/wp-json/wp/v2/posts?per_page=100&context=embed"
     },
     {
         "id": 33,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "Binance",
         "description": "24 hr crypto data",
         "url": "https://data.binance.com/api/v3/ticker/24hr"
     },
     {
         "id": 34,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "CoinBase",
         "description": "Currency codes and names",
         "url": "https://api.coinbase.com/v2/currencies"
     },
     {
         "id": 35,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "CoinCap",
         "description": "Real time cryptocurrency prices",
         "url": "https://api.coincap.io/v2/assets"
     },
     {
         "id": 36,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "CoinDesk",
         "description": "Bitcoin price index",
         "url": "https://api.coindesk.com/v1/bpi/currentprice.json"
     },
     {
         "id": 37,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "CoinGecko",
         "description": "Cryptocurrency market data",
         "url": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd"
     },
     {
         "id": 38,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "CoinLore",
         "description": "Cryptocurrency market data",
         "url": "https://api.coinlore.net/api/tickers/"
     },
     {
         "id": 39,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "CoinMap",
         "description": "Crypto ATMs",
         "url": "https://coinmap.org/api/v1/venues/"
     },
     {
         "id": 40,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "Coinpaprika",
         "description": "Cryptocurrency data",
         "url": "https://api.coinpaprika.com/v1/coins/btc-bitcoin"
     },
     {
         "id": 41,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "CoinStats",
         "description": "Cryptocurrency market data",
         "url": "https://api.coinstats.app/public/v1/markets?coinId=bitcoin"
     },
     {
         "id": 42,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "Currency Rates",
         "description": "Currency exchange rates",
         "url": "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/eur.json"
     },
     {
         "id": 43,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "DEX Screener",
         "description": "Blockchain screener",
         "url": "https://api.dexscreener.com/latest/dex/search?q=WBNB%20USDC"
     },
     {
         "id": 44,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "Exchangerate",
-        "description": "Currency exchange &amp; crypto rates",
+        "description": "Currency exchange & crypto rates",
         "url": "https://api.exchangerate.host/latest"
     },
     {
         "id": 45,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "ExchangeRate-API",
         "description": "Exchange rates",
         "url": "https://open.er-api.com/v6/latest/USD"
     },
     {
         "id": 46,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "Gemini",
         "description": "Cryptocurrency market data",
         "url": "https://api.gemini.com/v2/ticker/btcusd"
     },
     {
         "id": 47,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "Kraken",
         "description": "Crypto data",
         "url": "https://api.kraken.com/0/public/Trades?pair=ltcusd"
     },
     {
         "id": 48,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "KuCoin",
         "description": "Crypto data",
         "url": "https://api.kucoin.com/api/v1/market/stats?symbol=BTC-USDT"
     },
     {
         "id": 49,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "NBP Web",
         "description": "Currency exchange rates and gold prices",
         "url": "http://api.nbp.pl/api/cenyzlota/last/30/?format=json"
     },
     {
         "id": 50,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "Nexchange",
         "description": "Cryptocurrency market data",
-        "url": "https://api.n.exchange/en/api/v1/price/btcusd/history/?hours=0.1&amp;data_points=3&amp;market_code=nex"
+        "url": "https://api.n.exchange/en/api/v1/price/btcusd/history/?hours=0.1&data_points=3&market_code=nex"
     },
     {
         "id": 51,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "Razorpay IFSC",
         "description": "Indian Financial Systems Codes",
         "url": "https://ifsc.razorpay.com/YESB0DNB002"
     },
     {
         "id": 52,
-        "category": "Crypto &amp; Finance",
+        "category": "Crypto & Finance",
         "name": "WazirX",
         "description": "Crypto data",
         "url": "https://api.wazirx.com/sapi/v1/tickers/24hr"
@@ -417,14 +417,14 @@
         "category": "Developer Tools",
         "name": "Google Favicons",
         "description": "Google's unofficial favicon fetcher",
-        "url": "https://www.google.com/s2/favicons?domain=quora.com&amp;sz=32"
+        "url": "https://www.google.com/s2/favicons?domain=quora.com&sz=32"
     },
     {
         "id": 61,
         "category": "Developer Tools",
         "name": "goQR",
         "description": "Create and read QR codes",
-        "url": "http://api.qrserver.com/v1/create-qr-code/?data=https://mixedanalytics.com&amp;size=100x100"
+        "url": "http://api.qrserver.com/v1/create-qr-code/?data=https://mixedanalytics.com&size=100x100"
     },
     {
         "id": 62,
@@ -438,7 +438,7 @@
         "category": "Developer Tools",
         "name": "Image-Charts",
         "description": "Chart images",
-        "url": "https://image-charts.com/chart?cht=p3&amp;chs=700x100&amp;chd=t:60,40&amp;chl=Hello|World&amp;chan&amp;chf=ps0-0,lg,45,ffeb3b,0.2,f44336,1|ps0-1,lg,45,8bc34a,0.2,009688,1"
+        "url": "https://image-charts.com/chart?cht=p3&chs=700x100&chd=t:60,40&chl=Hello|World&chan&chf=ps0-0,lg,45,ffeb3b,0.2,f44336,1|ps0-1,lg,45,8bc34a,0.2,009688,1"
     },
     {
         "id": 64,
@@ -452,7 +452,7 @@
         "category": "Developer Tools",
         "name": "is.gd",
         "description": "URL shortener",
-        "url": "https://is.gd/create.php?format=simple&amp;url=www.example.com"
+        "url": "https://is.gd/create.php?format=simple&url=www.example.com"
     },
     {
         "id": 66,
@@ -505,231 +505,231 @@
     },
     {
         "id": 73,
-        "category": "Food &amp; Drink",
+        "category": "Food & Drink",
         "name": "Cocktail Database",
         "description": "Cocktail recipes",
         "url": "https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita"
     },
     {
         "id": 74,
-        "category": "Food &amp; Drink",
+        "category": "Food & Drink",
         "name": "Open Brewery DB",
         "description": "Breweries",
         "url": "https://api.openbrewerydb.org/breweries"
     },
     {
         "id": 75,
-        "category": "Food &amp; Drink",
+        "category": "Food & Drink",
         "name": "Open Food Facts",
         "description": "Data on food products",
         "url": "https://world.openfoodfacts.org/api/v0/product/737628064502.json"
     },
     {
         "id": 76,
-        "category": "Food &amp; Drink",
+        "category": "Food & Drink",
         "name": "PunkAPI",
         "description": "Beer recipes",
         "url": "https://api.punkapi.com/v2/beers"
     },
     {
         "id": 77,
-        "category": "Food &amp; Drink",
+        "category": "Food & Drink",
         "name": "Whisky Hunter",
         "description": "Whisky auctions",
         "url": "https://whiskyhunter.net/api/auctions_data/?format=json"
     },
     {
         "id": 78,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "AmiiboAPI",
         "description": "Nintendo Amiibo database",
         "url": "https://www.amiiboapi.com/api/amiibo/?name=mario"
     },
     {
         "id": 79,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Barter",
         "description": "Digital game libraries, wishlists and tradables",
         "url": "https://barter.vg/browse/cards/json"
     },
     {
         "id": 80,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Board Game Geek",
         "description": "Board games",
         "url": "https://boardgamegeek.com/xmlapi/search?search=frika"
     },
     {
         "id": 81,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Bored",
         "description": "Activity suggestions",
         "url": "https://www.boredapi.com/api/activity"
     },
     {
         "id": 82,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "CheapShark",
         "description": "Price comparison for digital games",
         "url": "https://www.cheapshark.com/api/1.0/deals?upperPrice=15"
     },
     {
         "id": 83,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Chuck Norris Jokes",
         "description": "Chuck Norris facts",
         "url": "https://api.chucknorris.io/jokes/random"
     },
     {
         "id": 84,
-        "category": "Fun &amp; Games",
-        "name": "D&amp;D 5th Edition",
-        "description": "Official 5th Edition of Dungeons &amp; Dragons",
+        "category": "Fun & Games",
+        "name": "D&D 5th Edition",
+        "description": "Official 5th Edition of Dungeons & Dragons",
         "url": "https://www.dnd5eapi.co/api/features"
     },
     {
         "id": 85,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Deck of Cards",
         "description": "Simulate a deck of cards",
         "url": "https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1"
     },
     {
         "id": 86,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Evil Insult Generator",
         "description": "Generate insults",
-        "url": "https://evilinsult.com/generate_insult.php?lang=en&amp;type=json"
+        "url": "https://evilinsult.com/generate_insult.php?lang=en&type=json"
     },
     {
         "id": 87,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "FreeToGame",
         "description": "Free-to-play games",
         "url": "https://www.freetogame.com/api/games?platform=pc"
     },
     {
         "id": 88,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Gamerpower",
         "description": "Free games and giveaways",
-        "url": "https://www.gamerpower.com/api/giveaways?platform=steam&amp;type=loot&amp;sort-by=popularity"
+        "url": "https://www.gamerpower.com/api/giveaways?platform=steam&type=loot&sort-by=popularity"
     },
     {
         "id": 89,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Hyrule Compendium",
         "description": "The Legend of Zelda: BOTW",
         "url": "https://botw-compendium.herokuapp.com/api/v2/entry/white-maned_lynel"
     },
     {
         "id": 90,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "icanhazdadjoke",
         "description": "Dad jokes",
         "url": "https://icanhazdadjoke.com/"
     },
     {
         "id": 91,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Imgflip",
         "description": "Popular memes",
         "url": "https://api.imgflip.com/get_memes"
     },
     {
         "id": 92,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "isEven",
         "description": "Check if a number is even",
         "url": "https://api.isevenapi.xyz/api/iseven/12/"
     },
     {
         "id": 93,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "JokeAPI",
         "description": "Jokes",
         "url": "https://v2.jokeapi.dev/joke/Any?safe-mode"
     },
     {
         "id": 94,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "jService",
         "description": "Trivia questions from Jeopardy",
         "url": "http://jservice.io/api/random"
     },
     {
         "id": 95,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Magic: The Gathering",
         "description": "Cards and sets from MTG",
         "url": "https://api.magicthegathering.io/v1/sets"
     },
     {
         "id": 96,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Official Joke",
         "description": "Jokes",
         "url": "https://official-joke-api.appspot.com/random_joke"
     },
     {
         "id": 97,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Open Trivia DB",
         "description": "Trivia questions",
-        "url": "https://opentdb.com/api.php?amount=10&amp;category=17&amp;difficulty=easy"
+        "url": "https://opentdb.com/api.php?amount=10&category=17&difficulty=easy"
     },
     {
         "id": 98,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "PokéAPI",
         "description": "Pokémon data",
         "url": "https://pokeapi.co/api/v2/pokemon/ditto"
     },
     {
         "id": 99,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Pokémon TCG",
         "description": "Pokémon card data",
         "url": "https://api.pokemontcg.io/v2/cards/xy1-1"
     },
     {
         "id": 100,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "RuneScape",
         "description": "Runescape data",
-        "url": "https://services.runescape.com/m=itemdb_rs/api/catalogue/items.json?category=9&amp;alpha=c&amp;page=1"
+        "url": "https://services.runescape.com/m=itemdb_rs/api/catalogue/items.json?category=9&alpha=c&page=1"
     },
     {
         "id": 101,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Scryfall",
         "description": "Magic: The Gathering card data",
-        "url": "https://api.scryfall.com/cards/search?order=cmc&amp;q=c:red%20pow=3"
+        "url": "https://api.scryfall.com/cards/search?order=cmc&q=c:red%20pow=3"
     },
     {
         "id": 102,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "TCGdex",
         "description": "Pokémon card data",
         "url": "https://api.tcgdex.net/v2/en/sets"
     },
     {
         "id": 103,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "XIVAPI",
         "description": "Final Fantasy XIV",
         "url": "https://xivapi.com/Action/127"
     },
     {
         "id": 104,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "xkcd",
         "description": "xkcd comics",
         "url": "http://xkcd.com/info.0.json"
     },
     {
         "id": 105,
-        "category": "Fun &amp; Games",
+        "category": "Fun & Games",
         "name": "Yes or No?",
         "description": "Randomly generate a yes or no image",
         "url": "https://yesno.wtf/api"
@@ -816,14 +816,14 @@
         "category": "Geo",
         "name": "Nominatum",
         "description": "Locations and addresses",
-        "url": "https://nominatim.openstreetmap.org/search.php?city=taipei&amp;format=jsonv2"
+        "url": "https://nominatim.openstreetmap.org/search.php?city=taipei&format=jsonv2"
     },
     {
         "id": 118,
         "category": "Geo",
         "name": "Open Topo Data",
         "description": "Determine elevation for lat/long",
-        "url": "https://api.opentopodata.org/v1/srtm90m?locations=-43.5,172.5|27.6,1.98&amp;interpolation=cubic"
+        "url": "https://api.opentopodata.org/v1/srtm90m?locations=-43.5,172.5|27.6,1.98&interpolation=cubic"
     },
     {
         "id": 119,
@@ -879,7 +879,7 @@
         "category": "Government",
         "name": "CiviX",
         "description": "Law and bylaw content of British Columbia",
-        "url": "https://www.bclaws.gov.bc.ca/civix/search/complete/fullsearch?q=water&amp;s=0&amp;e=20&amp;nFrag=5&amp;lFrag=100"
+        "url": "https://www.bclaws.gov.bc.ca/civix/search/complete/fullsearch?q=water&s=0&e=20&nFrag=5&lFrag=100"
     },
     {
         "id": 127,
@@ -893,7 +893,7 @@
         "category": "Government",
         "name": "Data USA",
         "description": "US public data",
-        "url": "https://datausa.io/api/data?drilldowns=Nation&amp;measures=Population"
+        "url": "https://datausa.io/api/data?drilldowns=Nation&measures=Population"
     },
     {
         "id": 129,
@@ -949,7 +949,7 @@
         "category": "Government",
         "name": "Open Data DC",
         "description": "Washington DC open data",
-        "url": "https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_TrafficVolume_WebMercator/MapServer/171/query?where=1%3D1&amp;outFields=ROUTEID,FROMMEASURE,TOMEASURE,FROMDATE,TODATE&amp;outSR=4326&amp;f=json"
+        "url": "https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_TrafficVolume_WebMercator/MapServer/171/query?where=1%3D1&outFields=ROUTEID,FROMMEASURE,TOMEASURE,FROMDATE,TODATE&outSR=4326&f=json"
     },
     {
         "id": 137,
@@ -977,7 +977,7 @@
         "category": "Government",
         "name": "USPTO",
         "description": "US Patent and Trademark Office",
-        "url": "https://assignment-api.uspto.gov/trademark/basicSearch?query=Google&amp;filter_year=2022"
+        "url": "https://assignment-api.uspto.gov/trademark/basicSearch?query=Google&filter_year=2022"
     },
     {
         "id": 141,
@@ -1005,7 +1005,7 @@
         "category": "Health",
         "name": "NPPES",
         "description": "US health care providers",
-        "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&amp;city=baltimore"
+        "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&city=baltimore"
     },
     {
         "id": 145,
@@ -1018,7 +1018,7 @@
         "id": 146,
         "category": "Health",
         "name": "openFDA",
-        "description": "Food &amp; Drug Administration data (US)",
+        "description": "Food & Drug Administration data (US)",
         "url": "https://api.fda.gov/food/enforcement.json?limit=10"
     },
     {
@@ -1047,7 +1047,7 @@
         "category": "Inspiration",
         "name": "Dictum",
         "description": "Inspiring expressions",
-        "url": "https://api.fisenko.net/v1/quotes/en?query=string&amp;offset=0&amp;limit=0"
+        "url": "https://api.fisenko.net/v1/quotes/en?query=string&offset=0&limit=0"
     },
     {
         "id": 151,
@@ -1158,8 +1158,8 @@
         "id": 166,
         "category": "Open Data",
         "name": "Data.Police.UK",
-        "description": "UK crime &amp; police data",
-        "url": "https://data.police.uk/api/crimes-street/all-crime?lat=52.629729&amp;lng=-1.131592&amp;date=2023-01"
+        "description": "UK crime & police data",
+        "url": "https://data.police.uk/api/crimes-street/all-crime?lat=52.629729&lng=-1.131592&date=2023-01"
     },
     {
         "id": 167,
@@ -1201,7 +1201,7 @@
         "category": "Open Data",
         "name": "Vehicles",
         "description": "National Highway Traffic Safety Administration's catalog of vehicles specs",
-        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvaluesextended/5UXWX7C5*BA?format=json&amp;modelyear=2011"
+        "url": "https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvaluesextended/5UXWX7C5*BA?format=json&modelyear=2011"
     },
     {
         "id": 173,
@@ -1250,7 +1250,7 @@
         "category": "Science",
         "name": "CelesTrak",
         "description": "General perturbations orbital data",
-        "url": "https://celestrak.org/NORAD/elements/gp.php?INTDES=2023-015&amp;FORMAT=JSON-PRETTY"
+        "url": "https://celestrak.org/NORAD/elements/gp.php?INTDES=2023-015&FORMAT=JSON-PRETTY"
     },
     {
         "id": 180,
@@ -1264,7 +1264,7 @@
         "category": "Science",
         "name": "iDigBio",
         "description": "Digitized data for millions of biological specimens",
-        "url": "https://search.idigbio.org/v2/search/records/?rq={\"data.dwc:dynamicProperties\":\"nsf_tcn\"}&amp;limit=1"
+        "url": "https://search.idigbio.org/v2/search/records/?rq={\"data.dwc:dynamicProperties\":\"nsf_tcn\"}&limit=1"
     },
     {
         "id": 182,
@@ -1327,7 +1327,7 @@
         "category": "Science",
         "name": "SunriseSunset",
         "description": "Sunrise and sunset times",
-        "url": "https://api.sunrisesunset.io/json?lat=38.907192&amp;lng=-77.036873&amp;timezone=UTC&amp;date=today"
+        "url": "https://api.sunrisesunset.io/json?lat=38.907192&lng=-77.036873&timezone=UTC&date=today"
     },
     {
         "id": 191,
@@ -1341,7 +1341,7 @@
         "category": "Science",
         "name": "USGS Earthquake Catalog",
         "description": "Latest earthquakes",
-        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&amp;starttime=2023-03-01&amp;endtime=2023-03-02&amp;minmagnitude=5"
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2023-03-01&endtime=2023-03-02&minmagnitude=5"
     },
     {
         "id": 193,
@@ -1390,7 +1390,7 @@
         "category": "Test Data",
         "name": "Ciprand",
         "description": "Generate random strings",
-        "url": "https://ciprand.p3p.repl.co/api?len=20&amp;count=10"
+        "url": "https://ciprand.p3p.repl.co/api?len=20&count=10"
     },
     {
         "id": 200,
@@ -1446,14 +1446,14 @@
         "category": "Weather",
         "name": "7Timer!",
         "description": "Weather forecasts for astronomy",
-        "url": "http://www.7timer.info/bin/api.pl?lon=113.17&amp;lat=23.09&amp;product=astro&amp;output=json"
+        "url": "http://www.7timer.info/bin/api.pl?lon=113.17&lat=23.09&product=astro&output=json"
     },
     {
         "id": 208,
         "category": "Weather",
         "name": "Aviation Weather Center",
         "description": "Aviation Digital Data Service (ADDS) data",
-        "url": "https://www.aviationweather.gov/adds/dataserver_current/httpparam?datasource=metars&amp;requestType=retrieve&amp;format=xml&amp;mostRecentForEachStation=constraint&amp;hoursBeforeNow=1.25&amp;stationString=KDE"
+        "url": "https://www.aviationweather.gov/adds/dataserver_current/httpparam?datasource=metars&requestType=retrieve&format=xml&mostRecentForEachStation=constraint&hoursBeforeNow=1.25&stationString=KDE"
     },
     {
         "id": 209,
