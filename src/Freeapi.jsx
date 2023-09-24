@@ -2,7 +2,6 @@ import React from 'react'
 import data from './data/api.json'
 
 function Freeapi() {
-  let avatar= "https://api.dicebear.com/7.x/fun-emoji/svg?seed={item.name}"
     return (
       <div>
           <p>Find free public APIs for your projects and use them without any cost! Our comprehensive platform offers a wide range of APIs, allowing you to seamlessly integrate the functionalities you need. Don't miss out on our free API offerings and unlock endless possibilities for your development needs. Start exploring now! List of Free Public Api&apos;s to use for your projects here are some free apis. </p>
