@@ -3,11 +3,8 @@
   line-height: 1.5;
   font-weight: 400;
   scroll-behavior: smooth;
-
-  color-scheme: light dark;
   color: rgba(3, 3, 3, 0.87);
-  background-color: #242424;
-
+  background-color: #ffffff;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -53,7 +50,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #ffffff;
   cursor: pointer;
   transition: border-color 0.25s;
   margin: 10px;
