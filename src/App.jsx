@@ -12,6 +12,7 @@ export default function App() {
       <button><Link to="/image">Image</Link></button>
       <button><Link to="/fetch">Fetch</Link></button>
       <button><Link to="/freeapi">Free Api</Link></button>
+      <button><Link to="/price">Crypto Price</Link></button>
       </div>
     </div>
   )

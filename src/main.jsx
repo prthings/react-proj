@@ -11,6 +11,7 @@ import Counter1 from './Counter1'
 import Quotes from './Quotes.jsx'
 import Mobile from './Mobile.jsx'
 import Freeapi from './Freeapi.jsx'
+import Price from './Price.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -25,6 +26,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             <Route path='/quote' element={<Quotes/>} />
             <Route path='/pass' element={<Mobile/>} />
             <Route path='/freeapi' element={<Freeapi/>} />
+            <Route path='/price' element={<Price/>} />
         </Routes>
     </Router>
   </React.StrictMode>,
