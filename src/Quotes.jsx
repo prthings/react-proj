@@ -30,9 +30,10 @@ function Quotes() {
            {data.map(items=>
             <div className='quote' key={items.author}>
                 <h3>{items.quote}</h3>
-                <blockquote>-- {items.author}</blockquote>
+                <b>{items.author}</b>
             </div>
            )}
+           <h6>API Provided by api-ninjas</h6>
     </div>
   )
 }

@@ -15,7 +15,11 @@
   background-color: #139c48;
   color: #f9efef;
 }
-
+b{
+    background-color: transparent;
+    color:#139c48;
+    text-decoration-line: none;
+}
 a {
   font-weight: 500;
   color: #080808;
