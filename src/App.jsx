@@ -13,6 +13,7 @@ export default function App() {
       <button><Link to="/fetch">Fetch</Link></button>
       <button><Link to="/freeapi">Free Api</Link></button>
       <button><Link to="/price">Crypto Price</Link></button>
+      <button><Link to="/api">API</Link></button>
       </div>
     </div>
   )

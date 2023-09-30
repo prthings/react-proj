@@ -1,0 +1,34 @@
+.main-box{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f9efef;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    justify-content: center;
+    overflow: hidden;
+}
+.box-one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+    height: auto;
+    background-color: rgb(252, 252, 252);
+    border-radius: 30px;
+    text-align: center;
+    margin: 10px;
+    -webkit-box-shadow: 3px 3px 10px 3px #dddddd;
+    -moz-box-shadow: 3px 3px 10px 3px #dddddd;
+    box-shadow: 3px 3px 10px 3px #dddddd;
+  }
+  .img>img{
+    border-radius: 10px;
+  }
+  .names h1{
+    font-size: 2.3rem;
+    line-height: 1rem;
+  }
