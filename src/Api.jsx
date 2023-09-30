@@ -19,7 +19,7 @@ function Api() {
               <h1>{item.API}</h1>
               <h5>{item.Category}</h5>
               <p>{item.Description}</p>
-              <a href={item.Link}><button>{item.API}</button></a>
+              <a href={item.Link} target="_blank" rel="noreferrer"><button>{item.API}</button></a>
               </div>
             </div>
           </div>
