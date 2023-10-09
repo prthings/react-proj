@@ -237,6 +237,14 @@ text-align: center;
   box-shadow: 3px 3px 10px 3px #dddddd;
 }
 
+.todo-card{
+  background-color: #fafafa;
+  border-radius: 10px;
+  padding: 1px;
+  margin: 3px;
+  height: 300px;
+}
+
 /* Auto detect dark or light */
 /* @media (prefers-color-scheme: light) {
   :root {

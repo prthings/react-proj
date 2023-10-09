@@ -10,11 +10,12 @@ const Button = styled.button`
   display:inline-block;
   flex: 1;
   border: none;
-  background-color: teal;
-  color: white;
-  height: 30px;
-  width: 50px;
-  border-radius: 2px;
+  background-color: aquamarine;
+  color: black;
+  height: 35px;
+  width: 94px;
+  margin: 10px;
+  border-radius: 5px;
   cursor: pointer;
 `;
 const Text = styled.input`
@@ -28,6 +29,7 @@ const TaskCount = styled.span`
   margin: 10px;
 `;
 const Tasks = styled.div`
+margin:10px;
 `;
 const LIST = styled.li`
     listStyle:"none";
@@ -73,7 +75,7 @@ return (
           <h2>Todo List</h2>
           <Text value={input} onInput={(e) =>setInput(e.target.value)} />
           <Button onClick={() => handleClick()}>Add</Button>
-        <Tasks>
+        <Tasks >
           <TaskCount>
             <b>Pending Tasks</b> {todoList.length - completedTaskCount}
           </TaskCount>
@@ -81,7 +83,7 @@ return (
             <b>Completed Tasks</b> {completedTaskCount}
           </TaskCount>
         </Tasks>
-        <div>
+        <div className="todo-card">
           <ul>
             {todoList.map((todo, index) => {
               return (
