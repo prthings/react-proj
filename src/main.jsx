@@ -13,6 +13,7 @@ import Mobile from './Mobile.jsx'
 import Freeapi from './Freeapi.jsx'
 import Price from './Price.jsx'
 import Api from './Api.jsx'
+import Todo from './Todo.js'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -29,6 +30,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             <Route path='/freeapi' element={<Freeapi/>} />
             <Route path='/price' element={<Price/>} />
             <Route path='/api' element={<Api/>} />
+            <Route path='/todo' element={<Todo/>} />
         </Routes>
     </Router>
   </React.StrictMode>,
