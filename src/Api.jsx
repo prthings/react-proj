@@ -16,7 +16,7 @@ function Api() {
             <div className='img' key={index}>
             <img  src={item.Img} alt={item.API} width={400} />
               <div className='names'>
-              <h1>{item.API}</h1>
+              <h2>{item.id}.{item.API}</h2>
               <h5>{item.Category}</h5>
               <p>{item.Description}</p>
               <a href={item.Link} target="_blank" rel="noreferrer"><button>{item.API}</button></a>
