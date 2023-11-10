@@ -247,8 +247,6 @@ text-align: center;
 
 .home-button{
   background-color: #f1f5f9;
-  display: flex;
-  flex-direction:column;
   align-items: center;
   justify-content: center;
 }
