@@ -6,6 +6,7 @@ export default defineConfig({
   plugins: [react()],
 })
 
-module.exports = {
-  baseUrl: process.env.NODE_ENV === 'production'
+// using relative path will work on any links
+export default {
+base:'./'
 }
