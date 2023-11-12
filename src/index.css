@@ -258,15 +258,11 @@ text-align: center;
 }
 
 .footer{
-  max-width: 1580px;
-  margin-left: auto;
-  margin-right: auto;
   color: #64748b;
-  display: block;
   margin: 20px;
-  margin-top: 28px;
 }
 .footer-content{
+  place-content: center;
   display: flex;
   flex-direction: column-reverse;
   align-items: center;
@@ -275,9 +271,9 @@ text-align: center;
 .footer-menu{
   list-style: none;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
-  width: 392px;
+  width: 292px;
 }
 .footer-menu li a{
   color: #ffffff;
