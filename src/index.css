@@ -308,6 +308,12 @@ hr{
   margin-bottom: 1rem;
   border-top-width: 1px;
 }
+.info-warn{
+  background-color: #41c49c;
+  border-radius: 3px;
+  padding: 10px;
+  color: #fafafa;
+}
 
 /* Auto detect dark or light */
 /* @media (prefers-color-scheme: light) {
