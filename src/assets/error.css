@@ -1,3 +1,6 @@
+.error-404{
+    margin-top: -49px;
+}
 .zero{
     color: red;
     font-size: 10rem;
@@ -5,4 +8,12 @@
 }
 h3{
     text-align: center;
+    margin-top: -46px;
+}
+.image-error{
+    background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+    height: 400px;
+    background-position: center;
+    border-radius: 1rem;
+    margin-top: -116px;
 }
