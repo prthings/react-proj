@@ -4,7 +4,7 @@
   font-weight: 400;
   scroll-behavior: smooth;
   color: rgba(3, 3, 3, 0.87);
-  background-color: #ffffff;
+  background-color: #f1f5f9;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -243,6 +243,15 @@ text-align: center;
   padding: 1px;
   margin: 3px;
   height: 300px;
+}
+
+.home-button{
+  background-color: #f1f5f9;
+  align-items: center;
+  justify-content: center;
+}
+.home-button>button{
+  width: 300px;
 }
 
 /* Auto detect dark or light */
