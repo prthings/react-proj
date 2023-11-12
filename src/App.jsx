@@ -15,6 +15,7 @@ export default function App() {
       <button><Link to="/price">Crypto Price</Link></button>
       <button><Link to="/api">API</Link></button>
       <button><Link to="/todo">Todo</Link></button>
+      <button><Link to="/mcu">MCU</Link></button>
       </div>
     </div>
   )

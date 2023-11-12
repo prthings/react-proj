@@ -14,6 +14,7 @@ import Freeapi from './Freeapi.jsx'
 import Price from './Price.jsx'
 import Api from './Api.jsx'
 import Todo from './Todo.jsx'
+import Mcu from './Mcu.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -31,6 +32,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             <Route path='/price' element={<Price/>} />
             <Route path='/api' element={<Api/>} />
             <Route path='/todo' element={<Todo/>} />
+            <Route path='/mcu' element={<Mcu/>} />
         </Routes>
     </Router>
   </React.StrictMode>,
