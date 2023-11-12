@@ -36,8 +36,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             <Route path='/api' element={<Api/>} />
             <Route path='/todo' element={<Todo/>} />
             <Route path='/about' element={<About/>} />
-            <Route path='/*' element={<Error/>} />
-
+            <Route path='/*' Component={<Error/>} />
         </Routes>
     </Router>
     <Footer/>
