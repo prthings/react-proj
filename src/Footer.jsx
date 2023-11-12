@@ -1,8 +1,10 @@
 import React from 'react'
+import { Outlet } from 'react-router-dom'
 
 function Footer() {
   return (
     <footer className='footer'>
+      <p style={{textAlign:'center',color:'red'}}>* Dont Refresh directly goto homapage and then try to refresh the page.</p>
         <hr />
         <div className='footer-content'>
         <div>© 2023 HelloPR, All rights reserved.</div>
@@ -15,6 +17,7 @@ function Footer() {
             </ul>
         </div>
         </div>
+        <Outlet />
     </footer>
   )
 }
