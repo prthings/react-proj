@@ -264,15 +264,16 @@ text-align: center;
 }
 .footer-content{
   display: flex;
+  flex-direction: column-reverse;
   align-items: center;
   justify-content: space-between;
 }
 .footer-menu{
   list-style: none;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
-  width: 492px;
+  width: 392px;
 }
 .footer-menu li a{
   color: #ffffff;
