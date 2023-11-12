@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
-import {BrowserRouter as Router , Routes , Route, BrowserRouter} from "react-router-dom"
+import {BrowserRouter as Router , Routes , Route} from "react-router-dom"
 import Counter from './Counter'
 import Fetch from './Fetch'
 import Image from './Image'
@@ -16,10 +16,11 @@ import Api from './Api.jsx'
 import Todo from './Todo.jsx'
 import Footer from './Footer.jsx'
 import About from './About.jsx'
+import Error from './Error.jsx'
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter>
         <Router>
         <Nav />
         <Routes>
@@ -35,9 +36,10 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             <Route path='/api' element={<Api/>} />
             <Route path='/todo' element={<Todo/>} />
             <Route path='/about' element={<About/>} />
+            <Route path='/*' element={<Error/>} />
+
         </Routes>
     </Router>
     <Footer/>
-    </BrowserRouter>
   </React.StrictMode>,
 )
