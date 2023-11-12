@@ -94,7 +94,6 @@ nav {
   align-items: center;
   width: 492px;
   padding: 20px;
-
 }
 .menu li a{
   color: #ffffff;
@@ -252,6 +251,57 @@ text-align: center;
 }
 .home-button>button{
   width: 300px;
+}
+
+.footer{
+  max-width: 1580px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #64748b;
+  display: block;
+  margin: 20px;
+  margin-top: 28px;
+}
+.footer-content{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer-menu{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 492px;
+}
+.footer-menu li a{
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 1.1rem;
+  text-decoration: none;
+  transition: 0.3s ease-in-out;
+}
+.footer-menu li a:hover,
+.footer-menu li a.active{
+color: #139c48;
+}
+.footer-menu li a:hover::after
+.footer-menu li a.active::after
+{
+  content: "";
+  width: 30px;
+  height: 2px;
+  background-color: #41c49c;
+  position: absolute;
+  bottom: -4px;
+  left: 2px;
+}
+hr{
+  --opacity: 0.4;
+  border-color: rgb(226 232 240/var(--opacity));
+  border-bottom-width: 1px;
+  margin-bottom: 1rem;
+  border-top-width: 1px;
 }
 
 /* Auto detect dark or light */

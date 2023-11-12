@@ -14,6 +14,7 @@ import Freeapi from './Freeapi.jsx'
 import Price from './Price.jsx'
 import Api from './Api.jsx'
 import Todo from './Todo.jsx'
+import Footer from './Footer.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -33,5 +34,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             <Route path='/todo' element={<Todo/>} />
         </Routes>
     </Router>
+    <Footer/>
   </React.StrictMode>,
 )
