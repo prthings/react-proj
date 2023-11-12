@@ -8,10 +8,10 @@ function Footer() {
         <div>© 2023 HelloPR, All rights reserved.</div>
         <div>
             <ul className='footer-menu'>
-                <li>About Us</li>
-                <li>Contact Us</li>
-                <li>Changelog</li>
-                <li>Tools</li>
+                <li><a href='/about'>About Us</a></li>
+                <li><a href='/about'>Contact Us</a></li>
+                <li><a href='/about'>Changelog</a></li>
+                <li><a href='/about'>Tools</a></li>
             </ul>
         </div>
         </div>
