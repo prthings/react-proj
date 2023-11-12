@@ -125,11 +125,21 @@ color: #139c48;
   flex-wrap: wrap;
   margin: 10px;
   padding: 10px;
-  background-color: #f9efef;
+  background-color: rgb(255, 255, 255);
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  border-radius: 5px;
+  border-radius: 0.75rem;
   justify-content: center;
+}
+.main-section{
+  --opacity:1;
+  --tw-shadow: 0 6px 8px rgba(102,119,136,0.03),0 1px 2px rgba(102,119,136,0.3);
+    --tw-shadow-colored: 0 6px 8px var(--tw-shadow-color),0 1px 2px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);
+  padding: 1.5rem;
+  background-color: rgb(255 255 255/var(--opacity));
+  border-radius: 0.75rem;
+  margin: 2rem;
 }
 .two{
   display: flex;
@@ -175,12 +185,12 @@ color: #139c48;
 padding: 10px;
 }
 .data{
-  background-color:aliceblue;
+  background-color:rgb(255, 255, 255);
   margin: 30px;
   padding: 10px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  border-radius: 5px;
+  border-radius: 0.75rem;
 }
 table{
   text-align: center;
@@ -242,12 +252,6 @@ text-align: center;
   padding: 1px;
   margin: 3px;
   height: 300px;
-}
-
-.home-button{
-  background-color: #f1f5f9;
-  align-items: center;
-  justify-content: center;
 }
 .home-button>button{
   width: 300px;
