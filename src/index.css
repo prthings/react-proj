@@ -278,6 +278,7 @@ text-align: center;
   align-items: center;
   width: 292px;
   margin-left: -42px;
+  margin-bottom: 1px;
 }
 .footer-menu li a{
   color: #64748b;
@@ -308,6 +309,17 @@ hr{
   margin-bottom: 1rem;
   border-top-width: 1px;
 }
+.social>a{
+  color: #64748b;
+    font-weight: 500;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+}
+.social>a:hover{
+  color: #139c48;
+}
+
 
 /* Auto detect dark or light */
 /* @media (prefers-color-scheme: light) {
